@@ -80,9 +80,9 @@ Trước hết, có nhiều chiến lược khác nhau để ngăn ngừa nôn m
 
 Khoảng một giờ trước khi quyết định tự tử, bạn nên uống một tách trà đen, ăn một miếng bánh mì nướng và uống một số thuốc chống say. Nên nghiền nát viên nén trước và cho vào máy xay để tạo thành bột. Nên bóc viên nang ra, lấy bột hoặc cho vào nước nóng để hòa tan thành chất lỏng. Sau đó trộn thuốc vào bánh pudding hoặc sữa chua, thêm một ít mật ong và nuốt nhanh. Nhưng một số chuyên gia cho biết việc trộn thuốc vào bánh pudding hoặc sữa chua sẽ không làm tăng tốc độ hấp thụ. Có lẽ sẽ tốt hơn nếu coi đó là một cách hỗ trợ việc nuốt.
 
-### Đồng thời uống một ít rượu vang
+### Đồng thời uống một ít rượu
 
-Uống một ít rượu vang cùng lúc là điều bắt buộc. Người ta nói rằng rượu có tác dụng tăng cường tác dụng đối với các loại thuốc có tác động đến hệ thần kinh trung ương. Nó có thể đẩy nhanh tốc độ hòa tan của bất kỳ loại thuốc nào và tác dụng có thể tăng lên 50% khi được dùng chung với nhau. Ngoài rượu vang, tốt nhất là nên chuẩn bị thêm một vài đồ uống nữa.
+Uống một ít rượu cùng lúc là điều bắt buộc. Người ta nói rằng rượu có tác dụng tăng cường tác dụng đối với các loại thuốc có tác động đến hệ thần kinh trung ương. Nó có thể đẩy nhanh tốc độ hòa tan của bất kỳ loại thuốc nào và tác dụng có thể tăng lên 50% khi được dùng chung với nhau. Ngoài rượu, tốt nhất là nên chuẩn bị thêm một vài đồ uống nữa.
 
 Ngoài ra, bạn phải chọn một nơi mà người khác không thể tìm thấy, ít nhất là một nơi mà bạn có thể ở một mình trong vòng tám tiếng. Ví dụ, khách sạn là nơi phù hợp nhất. Nếu ai đó phát hiện ra trong vòng vài giờ, đó sẽ chỉ là một nỗ lực tự tử và cần phải thụt tháo nhiều lần. Một phụ nữ 25 tuổi đã phải thụt tháo vì cố tự tử cho biết: "Nếu biết trước sẽ đau đớn như vậy, tôi đã không tự tử". (Tuy nhiên, cô ấy cũng nói: "Có lẽ tôi sẽ thử tự tử lần nữa".)
 
@@ -332,7 +332,7 @@ Ghi chú của biên dịch viên tiếng Việt: Tôi cũng không dịch phầ
 | - | - | - | - |
 | Serushin, Diazepam, Sonakon | Diazepam | Khoảng 500mg (J) <br> Nhiều hơn 500mg (H) | Nhiều hơn 100 viên |
 
-Gần đây, một số bác sĩ trị liệu tâm thần đã kê đơn thuốc bừa bãi. Khi bạn mở cửa cho bác sĩ tâm thần và nói với bác sĩ rằng bạn "không ngủ được" hoặc "cảm thấy bồn chồn", thì khả năng cao là một loại thuốc chống lo âu như "Serushin" hoặc "Diazepam" sẽ được kê đơn ngay lập tức. Đôi khi, bác sĩ nội khoa cũng sẽ kê đơn này. Sau khi nhận được đơn thuốc chống lo âu từ bác sĩ tâm thần, bạn nói "Nó không hiệu quả" và yêu cầu đổi thuốc. Bởi vì các bác sĩ cũng cần thử loại nào phù hợp hơn với bệnh nhân.
+Gần đây, một số các bác sĩ trị liệu tâm lý đã kê đơn thuốc bừa. Khi bạn đi khám và nói với bác sĩ rằng bạn "không ngủ được" hoặc "cảm thấy bồn chồn", thì khả năng cao là một loại thuốc chống lo âu như "Serushin" hoặc "Diazepam" sẽ được kê đơn ngay lập tức. Đôi khi, bác sĩ nội khoa cũng sẽ kê đơn này. Sau khi nhận được đơn thuốc chống lo âu từ bác sĩ tâm thần, bạn nói "Nó không hiệu quả" và yêu cầu đổi thuốc. Bởi vì các bác sĩ cũng cần thử loại nào phù hợp hơn với bệnh nhân.
 
 Tuy nhiên, chỉ vì bác sĩ kê đơn thuốc Benzodiazepam trước, điều đó cũng cho thấy rằng chúng rất an toàn. Ngay cả khi bạn đủ may mắn để nhận được đơn thuốc như vậy, thì tác dụng cũng rất nhỏ và khoảng cách giữa nó và liều gây chết là quá lớn. Để có được liều gây chết, bạn phải thường xuyên đến bệnh viện. Lượng được kê đơn không quá 15 mg mỗi ngày, vì vậy cần phải tích lũy ít nhất một tháng thuốc. Hơn nữa, các bác sĩ lo ngại rằng các loại thuốc họ kê đơn có thể bị tích tụ và sử dụng để tự tử. Chính xác là vì dễ kiếm nên nó không phù hợp để tự tử. Có hai trường hợp hai bệnh nhân đã nuốt khoảng 450 đến 500 mg Diazepam đã hồi phục trong vòng 48 giờ.
 
