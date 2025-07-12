@@ -64,7 +64,7 @@ ISBN 957-9146-03-9
 
 ### Phiên bản tiếng Trung
 
-Biên dịch viên: Rena, or YuriMiller
+Biên dịch viên: Rena, hoặc là YuriMiller
 
 Nhà xuất bản: [GitHub](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN)
 
@@ -72,7 +72,7 @@ Ngày xuất bản: 2018-08-05
 
 ### Phiên bản tiếng Anh
 
-Biên dịch viên: Kotaaru Shoukougun, or CotardSyndrome
+Biên dịch viên: Kotaaru Shoukougun, hoặc là CotardSyndrome
 
 Nhà xuất bản: [GitHub](https://github.com/CotardSyndrome/CompleteSuicideManual-En)
 
@@ -90,7 +90,7 @@ Ngày xuất bản: 2024-08-23
 
 Bản dịch dựa trên phiên bản tiếng Đài Loan, nhưng đôi khi tôi phải tham khảo phiên bản tiếng Nhật để sửa lỗi. Có rất nhiều lỗi trong phiên bản tiếng Đài Loan, nhưng tôi nghĩ mình đã phát hiện ra hầu hết chúng.
 
-Có hai loại chú thích. Loại đầu tiên được định dạng như thế này `<sup>...</sup>`, và chúng do Rena biên soạn. Loại thứ hai được định dạng như thế này `[^...]`, và chúng do tôi biên soạn. Rất nhiều chú thích của Rena khá vô dụng và tôi đã xóa chúng.
+Có hai loại chú thích. Loại đầu tiên được định dạng như thế này `<sup>...</sup>`, do Rena biên soạn. Loại thứ hai được định dạng như thế này `[^...]`, do tôi biên soạn. Rất nhiều chú thích của Rena khá vô dụng và tôi đã xóa chúng.
 
 Hầu hết các chú thích dài được trích từ Wikipedia. Tôi không bận tâm đến các trích dẫn chính xác. Nếu bạn thực sự muốn tìm chúng, bạn có thể lên Google.
 
@@ -100,7 +100,7 @@ Tài liệu *hầu hết* tuân thủ cú pháp Markdown mở rộng. Tại sao 
 
 Toàn bộ phiên bản tiếng Anh đã được sao chép trực tiếp vào trang web và tôi chủ yếu dịch cuốn sách dựa trên phiên bản đó, với một số chỉnh sửa nhỏ, chú thích và ghi chú của riêng tôi. Tôi không biết tiếng Nhật hay tiếng Trung nên đây là nguồn tham khảo duy nhất của tôi. Tương tự như những bản khác, sẽ có nhiều lỗi, nhưng thật không may, tôi không phải là người cầu toàn và khả năng thấp là sẽ có một người như vậy đến đây một lần nữa.
 
-Ghi chú dịch thuật của CotardSyndrome cho biết anh ấy đã phát hiện ra hầu hết các lỗi trong phiên bản tiếng Đài Loan. Còn tôi thì đã phát hiện ra hầu hết các lỗi trong phiên bản của anh ấy. Bản PDF tiếng Trung đầy đủ được dán vào một trang.
+Ghi chú dịch thuật của CotardSyndrome cho biết anh ấy đã phát hiện ra hầu hết các lỗi trong phiên bản tiếng Đài Loan. Còn tôi thì đã phát hiện ra hầu hết các lỗi trong phiên bản của anh ấy. Bản PDF tiếng Trung đầy đủ đã được dán vào một trang riêng.
 
 Chú thích của Rena có thể khó nhìn vì định dạng `<sup>...</sup>` không được hỗ trợ đầy đủ ở đây. Hoặc nó có nhưng nó sẽ lẫn với chú thích của CotardSyndrome.
 
