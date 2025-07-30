@@ -1,4 +1,6 @@
-# Mục lục
+# Cẩm nang tự tử hoàn chỉnh
+
+## Mục lục
 
 Lời tựa đầu
 

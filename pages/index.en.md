@@ -1,4 +1,6 @@
-# Contents
+# The Complete Manual of Suicide
+
+## Contents
 
 Preface
 

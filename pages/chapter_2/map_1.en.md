@@ -79,6 +79,7 @@ Every October, more than 600 people, including the local fire brigade and police
 ### Beware of the Self-Defense Forces
 
 Every March, from near the entrance of Wind Cave to Kentoku Dojo (乾徳道場)[^kentoku-dojo], the Self-Defense Forces conduct a column walking training in the dense forest. It is said that most of the bodies that were not found during the great search were discovered at this time. Therefore, it is also better not to choose the area from the south of the cave to the dojo.
+
 ### Don't be suspected by the locals
 
 People who have lived in the area for a long time can identify suiciders at a glance. It is believed that simply carrying a small bag, or not taking photos, is a telling sign, but more importantly they rely on intuition. When you walk into the sea of ​​trees, the locals will greet you and say, "Do you know where this place is?" and try to persuade you to live. Even if you say, "Let me die," they won't listen. After more than 40 minutes of gossiping, some would-be suiciders finally gave in and turned back to the world of living. So, don't take on the aura of suicide in the first place. However, pretending to be happy at the moment of death is a bit pointless. Don't hesitate before entering the sea of ​​trees. Walk in gracefully and the locals will not follow you in suspicion. Because even if the locals walk a hundred meters into the forest, it is difficult for them to come back.

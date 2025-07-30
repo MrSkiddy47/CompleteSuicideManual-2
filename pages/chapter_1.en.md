@@ -203,8 +203,6 @@ However, there are also cases of 20-year-old and 22-year-old men who took 800mg 
 
 ![](/img/1_travelmin_senior.png)
 
-![](/img/1_senpaa.png)
-
 | Product Name | Ingredients | Lethal Dose | Ingredients in One Tablet | Dose (Lethal) | One Box of Servings |
 | - | - | - | - | - | - |
 | Travelmin Senior | Diphenhydramine | 25mg/kg(A) <br> 45mg/kg(G) | 40mg | 38～60 capsules (60kg) | 10 capsules/650 yen |

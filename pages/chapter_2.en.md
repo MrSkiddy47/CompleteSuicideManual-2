@@ -46,7 +46,7 @@ When hanging, for a person whose blood pressure is 170 mmHg, it takes 3.5 kg of 
 
 In fact, there are examples of people with their buttocks and back on the floor (refer to Figure 3)[^figure3]. Some people say that as long as the height is above 30 cm, you can die. Some people even say that in Europe and the United States, more hanging suicides have their feet touching the ground than not. If you plan to die in your room, there is no need to give up because you feel the height is not enough. A door handle is enough, and using the slope of the stairs is also a good idea.
 
-[^figure3]: Figure 3 is missing, or may it's Figure 2
+[^figure3]: Figure 3 is missing, or maybe it's Figure 2
 
 Another thing that should be noted is that although it is necessary to find a place where it is not easy to be discovered, it is not like suicide by gas or drugs, which requires a place where it cannot be discovered for several hours or days. It would be impossible to save you if you are not discovered within ten minutes. More than 30 minutes and it would be a complete success.
 

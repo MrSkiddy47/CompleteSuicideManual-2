@@ -47,6 +47,7 @@ const config: DocsThemeConfig = {
   i18n: [
     { locale: 'en', text: 'English' },
     { locale: 'vn', text: 'Tiếng Việt' },
+    { locale: 'zh', text: '中文' }
   ]
 }
 

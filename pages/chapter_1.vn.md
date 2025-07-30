@@ -215,8 +215,6 @@ Tuy nhiên, cũng có trường hợp nam giới 20 tuổi và 22 tuổi dùng 8
 
 ![](/img/1_travelmin_senior.png)
 
-![](/img/1_senpaa.png)
-
 | Tên sản phẩm | Nguyên liệu | Liều gây chết | Nguyên liệu trong một viên | Liều lượng (gây chết) | Một hộp khẩu phần |
 | - | - | - | - | - | - |
 | Travelmin Senior | Diphenhydramine | 25mg/kg(A) <br> 45mg/kg(G) | 40mg | 38～60 viên nang (cho người nặng 60kg) | 10 viên nang/650 yên |
