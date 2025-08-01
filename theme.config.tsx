@@ -7,6 +7,7 @@ const config: DocsThemeConfig = {
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="google-site-verification" content="J6YnI9xY16DJUeUeOmfUdAIIASTi9GYngREv0oROUDI" />
       <meta property="og:title" content="The Complete Manual of Suicide" />
       <link rel="icon" type="image/png" href="/icon.png"></link>
     </>
