@@ -6,7 +6,7 @@ In the translation site, you can switch between the Chinese, English or Vietname
 
 Thanks to [YuriMiller (or Rena)](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN) who did the Chinese translation, converted the text from Traditional Chinese to Simplified Chinese, proofread it, and wrote the annotations for the book.
 
-Thanks to [CotardSyndrome's](https://github.com/CotardSyndrome/CompleteSuicideManual-En) for the English translation and further annotations, the Vietnamese translation is completely based on it.
+Thanks to [CotardSyndrome](https://github.com/CotardSyndrome/CompleteSuicideManual-En) for the English translation and further information and annotations, the Vietnamese translation is completely based on it.
 
 If you know Chinese or Japanese, or are simply interested, feel free to improve the translation.
 
@@ -54,7 +54,7 @@ Trên trang dịch thuật, bạn có thể chuyển đổi giữa phiên bản 
 
 Cảm ơn [YuriMiller (hoặc Rena)](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN) đã hoàn thiện bản dịch tiếng Trung, chuyển đổi văn bản từ tiếng Trung phồn thể sang tiếng Trung giản thể, hiệu đính và viết chú thích cho cuốn sách.
 
-Cảm ơn [CotardSyndrome](https://github.com/CotardSyndrome/CompleteSuicideManual-En) đã thực hiện bản dịch tiếng Anh và ghi thêm các chú thích bổ sung, bản dịch tiếng Việt được dựa hoàn toàn trên bản dịch này.
+Cảm ơn [CotardSyndrome](https://github.com/CotardSyndrome/CompleteSuicideManual-En) đã thực hiện bản dịch tiếng Anh và ghi thêm các thông tin và chú thích bổ sung, bản dịch tiếng Việt được dựa hoàn toàn trên bản dịch này.
 
 Nếu bạn biết tiếng Nhật hoặc tiếng Trung, hay chỉ đơn giản là bạn có hứng thú, hãy cải thiện bản dịch này.
 
