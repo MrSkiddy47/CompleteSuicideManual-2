@@ -82,7 +82,7 @@ Publication date: 2024-04-01
 
 Translator: Yapper689
 
-Publisher: [GitHub](https://github.com/CotardSyndrome/CompleteSuicideManual-VN)
+Publisher: [GitHub](https://github.com/CotardSyndrome/CompleteSuicideManual)
 
 Publication date: 2024-08-23
 

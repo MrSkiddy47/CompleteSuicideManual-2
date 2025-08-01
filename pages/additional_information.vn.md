@@ -82,7 +82,7 @@ Ngày xuất bản: 2024-04-01
 
 Biên dịch viên: Yapper689
 
-Xuất bản: [GitHub](https://github.com/Yapper689/CompleteSuicideManual-VN)
+Xuất bản: [GitHub](https://github.com/Yapper689/CompleteSuicideManual)
 
 Ngày xuất bản: 2024-08-23
 
