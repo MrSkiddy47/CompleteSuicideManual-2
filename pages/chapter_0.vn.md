@@ -1,20 +1,24 @@
 # Lời tựa đầu
 
-Cuốn sách này mô tả chi tiết cách tự tử.
+Cuốn sách này mô tả chi tiết mọi phương pháp tự tử.
 
-Cuốn sách này không phải là một biên niên sử về những người đã tự tử, cũng không phải là một nỗ lực để giải thích lý do tự tử. Bạn có thể đọc nó như một cuốn ghi chép hỗn tạp, nhưng toàn bộ cuốn sách này đều hướng đến "cách tự tử".
+Cuốn sách này không phải là biên niên sử về những vụ tự tử thường xuyên, mà cũng không cố gắng giải thích lý do để tự tử. Mặc dù có thể được đọc như một cuốn hồi ký, nhưng định hướng chung của cuốn sách là khám phá các "cách để tự tử".
 
-Bạn có thể thấy chán với những lời mở đầu dài dòng này.
+Bạn có thể thấy mệt mỏi với phần giới thiệu dài dòng này.
 
-Tôi không biết từ khi nào mà chủ đề "Tại sao người trẻ muốn chết?" đã được thảo luận đi thảo luận lại không có hồi kết. Ví dụ, vào những năm 1970, các kết luận đưa ra là "Tam nghĩa hư vô" (三無主義 "Sanmu-shugi", nghĩa là "không quyền lực, không hứng thú, không trách nhiệm"), "Thế hệ thờ ơ" (しらけ世代 "Shirake-sedai"), v.v. Tuy nhiên, những câu hỏi như "Tại sao bạn không thể tự tử?" và "Tại sao bạn phải sống?" chưa bao giờ được trả lời.
+Không biết từ bao giờ, câu hỏi "Tại sao người trẻ lại muốn chết?" đã được bàn đi bàn lại. Ví dụ, hồi những năm 1970, các kết luận đưa ra từng là "Tam nghĩa hư vô"[^mu-shugi], "Thế hệ thờ ơ" [^Shirake-sedai], v.v. Tuy nhiên, những câu hỏi như "Tại sao không nên tự tử?" và "Tại sao phải sống?" vẫn chưa bao giờ có lời giải đáp.
 
-Nói thẳng ra, điều cần thiết bây giờ là một cuốn sách có thể biến "tự tử" thành hiện thực.
+[^mu-shugi]: 三無主義 "Sanmu-shugi", nghĩa là "không quyền lực, không hứng thú, không trách nhiệm"
 
-Nghĩ lại, tôi nhớ mình đã phát ngán với một cuốn sách xuất bản cách đây khoảng 10 năm với nội dung "mô tả cách tự tử" vì nó chứa toàn những điều vô nghĩa. Điều bạn cần biết bây giờ chỉ đơn giản là làm thế nào để tự tử.
+[^Shirake-sedai]: しらけ世代 "Shirake-sedai"
 
-Ở Hoa Kỳ, chỉ có duy nhất một thiết bị an tử do một nhà khoa học phát minh ra (xem Chương 11, Nghiên cứu trường hợp 30). Cuốn sách này sẽ là "thiết bị an tử hoàn toàn bằng chữ" duy nhất ở Nhật Bản.
+Nói thẳng ra, điều cần thiết bây giờ là một cuốn sách có thể biến "tự tử" thành một lựa chọn thiết thực.
 
-Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng cách mô tả cách dùng thuốc quá liều. Tuy nhiên, để làm rõ câu trả lời cho câu hỏi "Tại sao lại tự tử vào lúc này?", cũng như nhiều mối lo về mặt thương mại khác,[^commercial-concerns] trước tiên tôi phải viết một vài điều lặt vặt đã.
+Nghĩ lại, tôi nhớ mình đã phát ngán với một cuốn sách xuất bản cách đây khoảng 10 năm trước với nội dung "Phương pháp Tự tử" vì nó chứa toàn những điều lan man, vô nghĩa. Điều bạn cần biết bây giờ chỉ đơn giản là làm thế nào để tự tử.
+
+Ở Hoa Kỳ, chỉ có duy nhất một thiết bị an tử do một học giả phát minh ra (xem Chương 11, Nghiên cứu trường hợp 30). Cuốn sách này sẽ là "thiết bị an tử bằng ngữ" duy nhất ở Nhật Bản.
+
+Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng việc mô tả phương pháp tự tử bằng thuốc. Tuy nhiên, để làm rõ câu hỏi "Tại sao lại tự tử vào lúc này?", và vì nhiều lý do thương mại khác,[^commercial-concerns] trước tiên tôi phải viết một vài điều lặt vặt đã.
 
 [^commercial-concerns]: Tác giả muốn cuốn sách phải có phần lời tựa dài, theo thường lệ.
 
@@ -30,41 +34,47 @@ Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng cách mô tả c
     >
     >* Thị trấn Pripyat: Thị trấn Pripyat, được xây dựng để ở đây cho công nhân và gia đình họ, có dân số khoảng 50.000 người. Sơ tán diễn ra nhanh chóng sau vụ nổ, nhưng chính phủ vẫn mất một khoảng thời gian để thông báo cho người dân về tầm ảnh hưởng thực sự của thảm họa. Một số cư dân Pripyat, bao gồm cả lính cứu hỏa, đã mất mạng trong quá trình kiểm soát đám cháy phóng xạ.
 
-> ... Tôi đã luôn chờ đợi một cơ hội, sẵn sàng để "thể hiện một điều gì đó lớn lao". Khi cuộc bạo loạn của sinh viên nổ ra cách đây hai mươi năm, mọi người đều nghĩ, "Một ai đó to tướng sắp xuất hiện!". Cuộc đổ bộ lên mặt trăng của Apollo, cuộc khủng hoảng dầu mỏ, cuộc xâm lược của Liên Xô vào một quốc gia nào đó và kỷ nguyên Showa sắp kết thúc. Tôi nghĩ, "Động thái này sẽ làm rung chuyển trái đất". Tuy nhiên, nó chỉ là một trận động đất có cường độ 3 độ richter và nó chỉ làm đổ một bức tường. Các sinh viên nhìn nhau, mỉm cười và nói "Tuyệt!" và với đó, cuộc tụ họp đã kết thúc. ... 
+> ... Tôi đã luôn chờ đợi một cơ hội, sẵn sàng để "ra tay". Hai mươi năm trước, khi các cuộc nổi dậy của sinh viên nổ ra, ai cũng nghĩ, "Một ai đó quan trọng sắp xuất hiện!". Cuộc đổ bộ lên mặt trăng của Apollo, cuộc khủng hoảng dầu mỏ, cuộc xâm lược của Liên Xô vào một quốc gia nào đó và sự kết thúc của kỷ nguyên Showa. Tôi nghĩ, "Động thái tiếp theo sẽ làm rung chuyển cả trái đất". Tuy nhiên, nó chỉ là một trận động đất 3 độ richter[^richter] và nó chỉ làm đổ một bức tường. Các sinh viên nhìn nhau, mỉm cười và nói "Tuyệt vời!" và với đó, cuộc vui đã đến hồi kết. ... 
 >
 > Trích từ phần tái bút trong *Yoake* (夜明ケ) của Kotobuki Shiriagari.[^yoake] 
 
 [^yoake]: Kotobuki Shiriagari (しりあがり 寿, Shiriagari Kotobuki, tên khai sinh là Mochizuki Toshiki, sinh ngày 1 tháng 1 năm 1958) là một họa sĩ truyện tranh và diễn viên người Nhật. 『夜明ケ』白泉社 (1990/04) ISBN 978-4592131359. Để biết thêm thông tin, hãy xem [Truyện tranh indie của Nhật Bản: Xưa và Nay — Google Arts & Culture](https://artsandculture.google.com/story/uwXB-5O4djoSUQ)
 
-Vào cuối những năm 1980, "ngày tận thế" và "chủ đề nguy hiểm" đang là xu hướng. Ban nhạc nổi tiếng nhất lúc đó đã hát "Chernobyl"[^chernobyl], và những câu nói đùa của trẻ em đều tràn ngập mùi vị của cái chết, các cô gái bắt đầu tìm kiếm bạn đồng hành để chuẩn bị cho cuộc chiến tranh thế giới sắp tới. Chúng tôi rất phấn khích về việc "Một ai đó quyền lực sắp tới!" và "Có lẽ ngày mai sẽ là ngày tận thế!"
+[^richter]: Độ Richter là thang đo dùng để xác định độ lớn của một trận động đất dựa trên năng lượng giải phóng. Đây là thang logarit, nghĩa là mỗi bậc tăng lên sẽ có sự gia tăng rất lớn về năng lượng. Động đất 3 độ Richter là một trận động đất yếu. Bạn có thể cảm thấy rung lắc nhẹ, tương tự như một chiếc xe tải nặng đi qua, nhưng thường không gây ra thiệt hại. Một số đồ vật treo có thể đung đưa nhẹ.
 
-Tuy nhiên, ngày tận thế đã không đến. Quả bom nguyên tử chưa bao giờ phát nổ, và giấc mơ về một cuộc chiến tranh hạt nhân toàn cầu đã biến mất không một dấu vết. Những người cách mạng của những năm 1980 đã hoàn toàn thất vọng.
+Vào cuối thập niên 1980, "ngày tận thế" và "chủ đề thảm hoạ" trở thành xu hướng. Ban nhạc nổi tiếng nhất lúc đó đã hát "Chernobyl"[^chernobyl], những câu chuyện cười của trẻ em đều đậm mùi cái chết, và các cô gái trẻ đã bắt đầu tìm kiếm bạn đồng hành để chuẩn bị cho cuộc chiến tranh thế giới sắp xảy ra. Chúng tôi đã rất phấn khích, "Một ai đó quyền lực sắp tới!", "Có lẽ ngày mai sẽ là ngày tận thế!".
 
-Cuối cùng, mọi người mới đều hiểu được "thể hiện tài năng của mình" là một điều không thể đạt được, và thế kỷ 22 chắc chắn sẽ đến. (Tất nhiên, thế kỷ 21 đang đến, vì sẽ không có "chiến tranh thế giới".) Thế giới chắc chắn sẽ không kết thúc. Chỉ một cuộc gặp gỡ ngắn ngủi với "thế giới bên kia" và "bên ngoài" không thể thỏa mãn được sự thôi thúc của chúng ta. Nếu bạn muốn có sự phấn khích lớn hơn, nếu bạn thực sự muốn thế giới kết thúc, bạn chỉ có thể làm "điều đó".
+Tuy nhiên, ngày tận thế đã không đến. Quả bom nguyên tử chưa bao giờ phát nổ, và giấc mơ về một cuộc chiến tranh hạt nhân toàn cầu đã tan biến không dấu vết. Những nhà cách mạng của thập niên 1980 đã thất vọng hoàn toàn.
+
+Cuối cùng, mọi người mới đều hiểu rằng việc "trổ tài" là một điều không thể, và thế kỷ 22 chắc chắn sẽ đến. (Dĩ nhiên, thế kỷ 21 đang đến rồi, vì sẽ không có "chiến tranh thế giới".) Thế giới chắc chắn sẽ không kết thúc. Chỉ một cuộc gặp gỡ ngắn ngủi với "thế giới bên kia" và "bên ngoài" thôi thì không thể thỏa mãn chúng ta được. Nếu bạn muốn phấn khích hơn, nếu bạn thực sự muốn thế giới kết thúc, bạn chỉ có thể làm "điều đó".
 
 [^chernobyl]: "Chernobyl" (チェルノブイリ), một bài hát của THE BLUE HEARTS, phát hành vào ngày 1 tháng 7 năm 1988.
 
 ## Một kỳ nghỉ dài
 
-Sẽ chẳng giúp ích gì khi cứ nói rằng nó "nhàm chán" - vì chúng ta đủ xui xẻo để được sinh ra ở giai đoạn lịch sử này.
+Nói rằng nó "nhàm chán" cũng vô ích thôi — chúng ta chỉ là những kẻ xui xẻo khi phải sinh ra trong giai đoạn lịch sử này.
 
-Từ giờ cho đến thế kỷ 22, chúng ta sẽ thức dậy lúc bảy giờ sáng mỗi ngày, đi học hoặc đi làm và lặp lại vô số điều không trọng tâm. Ở trường, tôi cứ đọc đi đọc lại các từ tiếng Anh và ngày tháng lịch sử; ở nơi làm việc, tôi nói lời gì đó như "Thật nhàm chán", nhưng lặp lại trong nhiều tuần, một tuần, một tháng và một năm. Nhiều tháng và nhiều năm làm những công việc thực sự rất nhàm chán. Các sản phẩm tiên tiến vẫn tiếp tục ra mắt với tốc độ chậm rãi, các chính trị gia vẫn tiếp tục tham ô với tốc độ chậm rãi và những nội dung truyền hình vẫn tiếp tục giải trí với tốc độ chậm rãi. Nhưng khi tôi tắt TV đi và nhìn xung quanh, nó chỉ là một ngày như bao ngày khác. (Gợi lên "sự đen tối tuyệt vời khi bạn tắt TV" là một trong những mục tiêu khác của cuốn sách.)
+Thế kỷ 22, chúng ta vẫn thức dậy lúc 7 giờ sáng mỗi ngày, đi học hoặc đi làm, và lặp đi lặp lại những câu nói vô nghĩa. Ở trường, chúng ta học thuộc lòng từ vựng tiếng Anh và các ngày tháng lịch sử; ở chỗ làm, chúng ta thốt lên những câu như "Chán quá" trong khi làm những công việc thực sự nhàm chán hàng tuần, hàng tháng, hàng năm, tuần này qua tuần khác, tháng này qua tháng khác, năm này qua năm khác. Những sản phẩm tiên tiến nhất vẫn cứ chậm chạp ra đời, các chính trị gia vẫn cứ chậm chạp tha hóa vụ lợi, và các kênh truyền hình vẫn cứ chậm chạp thu hút người xem. Nhưng khi chúng ta tắt TV và nhìn xung quanh, đó chỉ là một ngày bình thường như bao ngày khác. (Thức tỉnh trước "bóng tối kỳ lạ xuất hiện sau khi tắt TV" là một mục tiêu khác của cuốn sách này.)
 
-Yukio Mishima[^mishima] đã đề cập trong một cuốn tiểu thuyết tự truyện "Lời thú tội của một chiếc mặt nạ" của mình rằng "cuộc sống hàng ngày" còn đáng sợ hơn cả một cuộc chiến tranh. Chúng ta luôn sống trong "cuộc sống man rợ và kinh hoàng" này, liên tục cam chịu nó. Để tạo nên một "tương lai ổn định" không thể giải thích được. Chúng ta đã theo nó từng bước trên đường đi, cẩn thận tránh bất kỳ sự chệch hướng nào. Không có kết thúc có hậu như trong một bộ phim truyền hình. Tuy nhiên, "niềm vui" kỳ lạ luôn tiếp diễn chậm rãi. Đúng vậy! Từ khóa là "chậm rãi" và "lặp lại". Sự lặp lại liên tục, chậm rãi của cùng một điều; đây là yếu tố đầu tiên làm da tăng mong muốn được chết của chúng ta.
+Trong cuốn tiểu thuyết tự truyện "Lời thú tội của một chiếc mặt nạ", Yukio Mishima[^mishima] đã viết: "Cuộc sống thường nhật còn đáng sợ hơn cả chiến tranh." Chúng ta phải chịu đựng "cuộc sống thường nhật kinh hoàng" này hết lần này đến lần khác. Để có một "tương lai ổn định" khó lý giải, từng bước đi đều phải được tính toán tỉ mỉ cẩn thận, tránh mọi sự chệch hướng khỏi con đường đúng đắn. Không có cái kết hậu như phim. Thay vào đó, "niềm vui" kỳ lạ này cứ tiếp diễn với một tốc độ chậm chạp. Đúng vậy! Từ khóa ở đây là "chậm" và "lặp đi lặp lại". Sự lặp lại liên tục, chậm chạp của cùng một điều là yếu tố đầu tiên thúc đẩy ham muốn được chết.
 
-[^mishima]: Yukio Mishima là một tác giả, nhà thơ, nhà viết kịch, diễn viên, người mẫu, tín đồ Thần đạo (Thần đạo Shinto), người theo chủ nghĩa dân tộc. Mishima được coi là một trong những nhà văn quan trọng nhất của thế kỷ 20. Ông đã năm lần được đề cử cho Giải Nobel Văn học vào những năm 1960. Tác phẩm của Mishima được đặc trưng bởi "từ vựng xa hoa và ẩn dụ đồi trụy, sự kết hợp giữa phong cách văn học truyền thống Nhật Bản và phương Tây hiện đại, và những khẳng định ám ảnh về sự thống nhất của cái đẹp, sự khiêu dâm và cái chết", theo tác giả Andrew Rankin.
+[^mishima]: 
+    Yukio Mishima là một tác giả, nhà thơ, nhà viết kịch, diễn viên, người mẫu, tín đồ Thần đạo (Thần đạo Shinto), người theo chủ nghĩa dân tộc. Mishima được coi là một trong những nhà văn quan trọng nhất của thế kỷ 20. Ông đã năm lần được đề cử cho Giải Nobel Văn học vào những năm 1960. Tác phẩm của Mishima được đặc trưng bởi "từ vựng xa hoa và ẩn dụ đồi trụy, sự kết hợp giữa phong cách văn học truyền thống Nhật Bản và phương Tây hiện đại, và những khẳng định ám ảnh về sự thống nhất của cái đẹp, sự khiêu dâm và cái chết", theo tác giả Andrew Rankin.
 
-*Lời thú tội của một chiếc mặt nạ* (1949) là tiểu thuyết thứ hai của Yukio Mishima. Nhân vật chính của tiểu thuyết là người đồng tính, và trong bối cảnh Đế quốc Nhật Bản, anh đã khó có thể giữ điều đó làm bí mật.
+    *Lời thú tội của một chiếc mặt nạ* (1949) là tiểu thuyết thứ hai của Yukio Mishima. Nhân vật chính của tiểu thuyết là người đồng tính, và trong bối cảnh Đế quốc Nhật Bản, anh đã khó có thể giữ bí mật điều đó.
 
 ## Một viên gạch nữa ở trên tường
 
-Năm 1978, một "vụ tự sát Amidakuji" xảy ra ở Nhật Bản.[^amidakuji]
+Năm 1978, một "vụ tự sát Amidakuji (Chân ma)" xảy ra ở Nhật Bản.[^amidakuji]
 
-[^amidakuji]: Thường được gọi là "あみだくじ自殺事件". Có vẻ như nguồn duy nhất nói về sự kiện này là ở Hokkoku Shimbun, ngày 5 tháng 9 năm 1978 (Showa 53), ấn bản buổi tối. Nó được mô tả chi tiết trong 別所実の犯罪症候群 (1981, ISBN 978-4385351957) trang 161--171. [Thế này cho dễ hình dung](https://i.sstatic.net/TCkPr.jpg)
+[^amidakuji]: 
+    Thường được gọi là "あみだくじ自殺事件". Có vẻ như nguồn duy nhất nói về sự kiện này là ở Hokkoku Shimbun, ngày 5 tháng 9 năm 1978 (Showa 53), ấn bản buổi tối. Nó được mô tả chi tiết trong 別所実の犯罪症候群 (1981, ISBN 978-4385351957) trang 161--171. 
 
-Một cặp chị em song sinh trung học sống ở tỉnh Toyama, Nhật Bản được tìm thấy treo cổ trong rừng. Trong sổ tay của một người trong số họ có vẽ một trò chơi Amidakuji với bốn đường thẳng và một số đường ngang xen kẽ nhau. Dưới Amidakuji, những từ khó hiểu như "X của Nhật Bản", "Tự tử", "ROS" và "Gosanke" được viết tương ứng. Đường kẻ được vẽ từ trên xuống chạy thẳng đến điểm "Tự tử". Vì cha mẹ họ không thể tìm ra động cơ tự tử, người ta kết luận rằng họ tự tử vì Amidakuji bảo thế. Người ta nói rằng "ROS" có thể có nghĩa là "Rolling Stones", vì nó cũng có những từ như "Japanese X" và "Ghét người Châu Á" được viết trên đó, có thể có liên quan. Tuy nhiên, tôi vẫn không hiểu được ý nghĩa của những từ này.
+    [Thử thách lập trình Amidakuji (Chân ma). (Đã tìm thấy trang này rồi thì còn rảnh chán)](/amidakuji)
 
-Ngày xửa ngày xưa, một thẩm phán đã nói: "Một mạng người nặng hơn cả trái đất". Tuy nhiên , đây là một sự hiểu lầm vô ích. Như hai cô gái trung học vào những năm 1970 đã nhận ra, cuộc sống của một con người rất nhẹ nhõm, nhẹ như những từ lạ như "X của Nhật Bản" và "ROS".
+Một cặp chị em song sinh trung học sống ở tỉnh Toyama, Nhật Bản được tìm thấy treo cổ trong rừng. Một trong hai người có một cuốn sổ ghi chép có vẽ một trò chơi Amidakuji với bốn đường kẻ dọc đan xen và một số đường kẻ ngang. Dưới Amidakuji, những từ khó hiểu như "X của Nhật Bản", "Tự tử", "ROS" và "Gosanke" được viết tương ứng. Đường kẻ được vẽ từ trên xuống chạy thẳng đến điểm "Tự tử". Vì cha mẹ họ không thể tìm ra động cơ tự tử, người ta kết luận rằng họ tự tử vì Amidakuji bảo thế. Người ta nói rằng "ROS" có thể có nghĩa là "Rolling Stones", vì nó cũng có những từ như "Japanese X" và "Ghét người Châu Á" được viết trên đó, có thể có liên quan. Tuy nhiên, tôi vẫn không hiểu được ý nghĩa của những từ này.
+
+Ngày xửa ngày xưa, một thẩm phán đã nói: "Một mạng người nặng hơn cả trái đất". Tuy nhiên, đây là một sự hiểu lầm vô ích. Như hai cô gái trung học vào những năm 1970 đã nhận ra, cuộc sống của một con người rất nhẹ nhõm, nhẹ như những từ lạ như "X của Nhật Bản" và "ROS".
 
 Vào cuối những năm 1950, một nhà lý thuyết xã hội đại chúng người Mỹ đã nói: "Quần chúng đã rơi vào cảm giác bất lực do sự phân rã phần tử của xã hội."[^mass-society-theory] Vào cuối những năm 1970, một ban nhạc rock của Anh đã hát "Nhìn chung, tất cả chúng mày chỉ là những viên gạch trên bức tường" (Another Brick in the Wall, bài hát năm 1979 của Pink Floyd), một bài hát đã trở nên rất phổ biến. Ngay cả trong những năm 1990, tình hình này ở Nhật Bản vẫn không thay đổi.
 

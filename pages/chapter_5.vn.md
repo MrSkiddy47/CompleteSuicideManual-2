@@ -2,17 +2,17 @@
 
 ![](/img/5_0.png)
 
-Đau đớn  ▼▼▼▽▽ 
+Mức độ đau  ▼▼▼▽▽ 
 
 Rắc rối  ▼▽▽▽▽ 
 
-Xấu  ▼▼▼▼▼ 
+Biến dạng  ▼▼▼▼▼ 
 
-Gây náo động  ▼▼▼▼▼ 
+Gây phiền  ▼▼▼▼▼ 
 
 Tác động  ▼▼▼▼▽ 
 
-Sát lực  ▼▼▼▼▼ 
+Tỷ lệ tử vong  ▼▼▼▼▼ 
 
 [ Một số chỗ trong bản dịch tiếng Anh có ghi "truck" - "xe tải" hay "car" - "ô tô" nhưng các đoạn văn chứa những từ đấy đang nói về tàu. Đã sửa. ]
 

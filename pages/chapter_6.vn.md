@@ -4,17 +4,17 @@
 
 ## (1) Ngộ độc khí trong ô tô
 
-Đau đớn  ▼▼▽▽▽ 
+Mức độ đau  ▼▼▽▽▽ 
 
 Rắc rối  ▼▼▼▼▼ 
 
-Xấu  ▼▽▽▽▽ 
+Biến dạng  ▼▽▽▽▽ 
 
-Gây náo động  ▼▽▽▽▽
+Gây phiền  ▼▽▽▽▽
 
 Tác động  ▼▽▽▽▽ 
 
-Sát lực  ▼▼▼▽▽ 
+Tỷ lệ tử vong  ▼▼▼▽▽ 
 
 Nối một ống từ ống xả khí thải của xe vào cửa sổ xe và chặn các khe hở. Việc này khá tốn thời gian và công sức, nhưng có thể dẫn đến cái chết dễ dàng và cái chết không quá xấu xí.
 

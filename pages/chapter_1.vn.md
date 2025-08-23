@@ -2,21 +2,21 @@
 
 ![](/img/1_0.png)
 
-Đau đớn －－－－－
+Mức độ đau －－－－－
 
 Rắc rối ▼▼▼▼▼
 
-Xấu ▼▽▽▽▽
+Biến dạng ▼▽▽▽▽
 
-Gây náo động[^ripple] ▼▽▽▽▽
+Gây phiền[^ripple] ▼▽▽▽▽
 
 Tác động[^impact] ▼▽▽▽▽
 
-Sát lực ▼▽▽▽▽
+Tỷ lệ tử vong ▼▽▽▽▽
 
-[^ripple]: 迷惑, mức độ gây phiền cho người khác nếu bạn chết bằng cách này.
+[^ripple]: 迷惑, Mức độ gây phiền người khác khi phải dọn dẹp nếu bạn chết theo cách này.
 
-[^impact]: インパクト, dịch đúng là "tác động". Tuy nhiên, tôi không thể hiểu được nghĩa của nó. Nó có phải có nghĩa là "tác động trực quan của cảnh tượng xác chết lên người khác" không? Nhưng tại sao chúng ta lại có một danh mục riêng cho "Xấu" và "Tác động"? Đối với hầu hết các phương pháp, hai hàng này khá giống nhau, ngoại trừ việc chết đuối có "Xấu" 4/5, nhưng "Tác động" 1/5. Thật khó để hiểu.
+[^impact]: インパクト, dịch đúng là "tác động". Tuy nhiên, tôi không thể hiểu được nghĩa của nó. Có phải nó nghĩa là "tác động trực quan của cảnh tượng xác chết lên người khác" không? Nhưng tại sao chúng ta lại có một danh mục riêng cho "Biến dạng" và "Tác động"? Đối với hầu hết các phương pháp, hai hàng này có điểm khá giống nhau, ngoại trừ chết đuối có "Xấu" 4/5, nhưng "Tác động" thì 1/5. Thật khó để hiểu.
 
 [ 
 

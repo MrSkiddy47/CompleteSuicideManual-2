@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
     </>
   ),
   project: {
-    link: 'https://github.com/Yapper689/CompleteSuicideManual-VN',
+    link: 'https://github.com/Yapper689/CompleteSuicideManual',
   },
   toc: {
     float: true,

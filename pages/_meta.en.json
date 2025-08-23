@@ -17,5 +17,9 @@
   "additional_information": {
     "title": "Additional Information",
     "type": "page"
+  },
+  "amidakuji": {
+    "title": "Amidakuji",
+    "display": "hidden"
   }
 }

@@ -1,4 +1,4 @@
-# Map 1: Aokigahara, the Sea of ​​Trees[^logan-paul]
+# Bản đồ 1: Aokigahara, Biển Cây[^logan-paul]
 
 [^logan-paul]: Một video gây tranh cãi đã được YouTuber người Mỹ nổi tiếng Logan Paul đăng tải vào cuối năm 2017. Trong video dài 15 phút, Paul và bạn bè đã khám phá khu rừng Aokigahara, còn được gọi là "Rừng tự tử", nằm ở chân núi Phú Sĩ ở Nhật Bản. Đột nhiên, họ đã bắt gặp thi thể của một nạn nhân tự tử trong quá trình khám phá. Video đã nhận được nhiều lời chỉ trích vì sự vô cảm và gây ra một cuộc tranh luận gay gắt về quy tắc đạo đức của việc sáng tạo nội dung trên nền tảng YouTube. Sau đó, Paul đã xóa video này và bày tỏ sự hối tiếc vì đã gây ra sự tranh cãi.
 

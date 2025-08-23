@@ -16,40 +16,6 @@ Impact  ▼▽▽▽▽
 
 Lethality  ▼▽▽▽▽ 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2"><center>Wrist cutting</center></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pain</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Trouble</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ugliness</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ripple</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Impact</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Lethality</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-    </tbody>
-</table>
-
 Although I have dismissed wristcutting as good for nothing except a mere taste of suicide, rather than suicide for real, it is possible to die from it. This is one of the most peaceful ways to die even if it works, and be prepared for failure, which is likely.
 
  **Carotid artery**  
@@ -66,40 +32,6 @@ Impact  ▼▼▼▼▽
 
 Lethality  ▼▼▽▽▽ 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2"><center>Carotid artery</center></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pain</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Trouble</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ugliness</td>
-            <td>▼▼▼▽▽</td>
-        </tr>
-        <tr>
-            <td>Ripple</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Impact</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Lethality</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-    </tbody>
-</table>
-
 Want to know what it's like to have your own blood fountaining all the way to the ceiling? But it's too scary, and the chance of failure is still high, so it's not a good method.
 
  **Seppuku**  
@@ -115,40 +47,6 @@ Ripple  ▼▼▼▼▽
 Impact  ▼▼▼▼▼ 
 
 Lethality  ▼▼▽▽▽ 
-
-<table>
-    <thead>
-        <tr>
-            <th colspan="2"><center>Seppuku</center></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pain</td>
-            <td>▼▼▼▼▼</td>
-        </tr>
-        <tr>
-            <td>Trouble</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ugliness</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Ripple</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Impact</td>
-            <td>▼▼▼▼▼</td>
-        </tr>
-        <tr>
-            <td>Lethality</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-    </tbody>
-</table>
 
 Seppuku has absolutely no benefits, except that it's rare and shocking, but why do people keep doing this? It is inexplicable.
 

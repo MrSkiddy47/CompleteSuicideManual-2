@@ -59,9 +59,12 @@ Yukio Mishima[^mishima] mentioned in his autobiographical novel "Confessions of 
 
 ## Another Brick in the Wall
 
-In 1978, an "Amidakuji suicide incident" occurred in Japan.[^amidakuji]
+In 1978, an "Amidakuji (Ghost leg) suicide incident" occurred in Japan.[^amidakuji]
 
-[^amidakuji]: Typically called "あみだくじ自殺事件". It seems that the only source for the event is in Hokkoku Shimbun, September 5, 1978 (Showa 53), evening edition. It is described in detail in 別所実の犯罪症候群 (1981, ISBN 978-4385351957) pages 161--171.
+[^amidakuji]: 
+    Typically called "あみだくじ自殺事件". It seems that the only source for the event is in Hokkoku Shimbun, September 5, 1978 (Showa 53), evening edition. It is described in detail in 別所実の犯罪症候群 (1981, ISBN 978-4385351957) pages 161--171.
+
+    [Try the Amidakuji (Ghost leg) code challenge (idk since ur here mite as well - Yapper).](/amidakuji)
 
 A pair of highschool twin sisters living in Toyama Prefecture, Japan, were found hanging in the woods. In the notebook of one of them, an Amidakuji game was drawn with four straight lines and several horizontal lines interlaced. Under the Amidakuji, the incomprehensible words "X of Japanese", "Suicide", "ROS", and "Gosanke" are written respectively. The line drawn from above goes all the way to the "Suicide" point. Since their parents could not figure out the motive for their suicide, they concluded that they committed suicide because the Amidakuji said so. It is said that "ROS" may have meant "Rolling Stones", since it also has words like "Japanese X" and "Hate Asians" written on it, it might have something to do with it. However, I still can't understand the meaning of these words.
 

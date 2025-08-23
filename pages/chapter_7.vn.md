@@ -1,16 +1,16 @@
 # 7. Điện giật
 
-Đau đớn  ▼▼▼▽▽ 
+Mức độ đau  ▼▼▼▽▽ 
 
 Rắc rối  ▼▼▼▼▽ 
 
-Xấu  ▼▽▽▽▽ 
+Biến dạng  ▼▽▽▽▽ 
 
-Gây náo dộng  ▼▽▽▽▽ 
+Gây phiền  ▼▽▽▽▽ 
 
 Tác động  ▼▽▽▽▽ 
 
-Sát lực  ▼▽▽▽▽ 
+Tỷ lệ tử vong  ▼▽▽▽▽ 
 
 Nhẹ nhàng hơn so với những gì mọi người thường nghĩ. Nhược điểm là: điện giật trong vài giây và phải tốn công tách da khỏi dây điện.
 

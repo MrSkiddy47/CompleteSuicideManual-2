@@ -4,153 +4,51 @@
 
 **Cắt cổ tay**  
 
-Đau đớn  ▼▼▽▽▽ 
+Mức độ đau  ▼▼▽▽▽ 
 
 Rắc rối  ▼▽▽▽▽ 
 
-Xấu  ▼▽▽▽▽ 
+Biến dạng  ▼▽▽▽▽ 
 
-Gây náo động  ▼▼▽▽▽ 
+Gây phiền  ▼▼▽▽▽ 
 
 Tác động  ▼▽▽▽▽ 
 
-Sát lực  ▼▽▽▽▽ 
+Tỷ lệ tử vong  ▼▽▽▽▽ 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2"><center>Wrist cutting</center></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pain</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Trouble</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ugliness</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ripple</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Impact</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Lethality</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-    </tbody>
-</table>
-
-Mặc dù tôi đã bác bỏ việc cắt cổ tay vì cho rằng nó chẳng có tác dụng gì ngoài việc nếm mùi tự tử, chứ không phải là tự tử thực sự, nhưng nó vẫn có khả năng gây tử vong. Đây là một trong những cách chết thanh thản nhất ngay cả khi nó hiệu quả, nhưng hãy chuẩn bị cho khả năng thất bại, điều này khả năng cao sẽ xảy ra.
+Mặc dù tôi đã bác bỏ phương pháp cắt cổ tay vì cho rằng nó chẳng có tác dụng gì ngoài việc nếm mùi tự tử, chứ không phải là tự tử thật, nhưng nó vẫn có khả năng gây tử vong. Đây là một trong những cách chết thanh thản nhất khi thực hiện đúng, nhưng hãy chuẩn bị cho khả năng thất bại, điều này khả năng cao sẽ xảy ra.
 
 **Cắt động mạch cảnh**  
 
-Đau đớn  ▼▼▽▽▽ 
+Mức độ đau  ▼▼▽▽▽ 
 
 Rắc rối  ▼▽▽▽▽ 
 
-Xấu  ▼▼▼▽▽ 
+Biến dạng  ▼▼▼▽▽ 
 
-Gây náo động  ▼▼▼▼▽ 
+Gây phiền  ▼▼▼▼▽ 
 
 Tác động  ▼▼▼▼▽ 
 
-Sát lực  ▼▼▽▽▽ 
+Tỷ lệ tử vong  ▼▼▽▽▽ 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2"><center>Carotid artery</center></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pain</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Trouble</td>
-            <td>▼▽▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ugliness</td>
-            <td>▼▼▼▽▽</td>
-        </tr>
-        <tr>
-            <td>Ripple</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Impact</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Lethality</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-    </tbody>
-</table>
-
-Bạn muốn biết cảm giác máu của chính mình phun tận lên trần nhà không? Nó khá là kinh hoàng và khả năng thất bại là cao nên đây không phải là một phương pháp tốt.
+Bạn muốn biết cảm giác máu của chính mình phun tận lên trần nhà không? Nó khá là kinh hoàng và khả năng thất bại cao nên đây không phải là một phương pháp tốt.
 
 **Seppuku**  
 
-Đau đớn  ▼▼▼▼▼ 
+Mức độ đau  ▼▼▼▼▼ 
 
 Rắc rối  ▼▼▽▽▽ 
 
-Xấu  ▼▼▼▼▽ 
+Biến dạng  ▼▼▼▼▽ 
 
-Gây náo động  ▼▼▼▼▽
+Gây phiền  ▼▼▼▼▽
 
 Tác động  ▼▼▼▼▼ 
 
-Sát lực  ▼▼▽▽▽ 
+Tỷ lệ tử vong  ▼▼▽▽▽ 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2"><center>Seppuku</center></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pain</td>
-            <td>▼▼▼▼▼</td>
-        </tr>
-        <tr>
-            <td>Trouble</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-        <tr>
-            <td>Ugliness</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Ripple</td>
-            <td>▼▼▼▼▽</td>
-        </tr>
-        <tr>
-            <td>Impact</td>
-            <td>▼▼▼▼▼</td>
-        </tr>
-        <tr>
-            <td>Lethality</td>
-            <td>▼▼▽▽▽</td>
-        </tr>
-    </tbody>
-</table>
-
-Seppuku hoàn toàn không hề có lợi ích gì, ngoại trừ việc nó rất hiếm xảy ra và gây sốc, nhưng tại sao mọi người vẫn tiếp tục làm điều này? Thật không thể giải thích được.
+Seppuku hoàn toàn không hề có lợi ích gì, trừ việc nó rất hiếm xảy ra và gây sốc, nhưng tại sao mọi người vẫn tiếp tục làm điều này? Thật không thể giải thích được.
 
 ## Cắt cổ tay và động mạch cảnh
 

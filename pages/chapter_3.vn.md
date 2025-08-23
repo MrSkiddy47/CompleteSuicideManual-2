@@ -2,17 +2,17 @@
 
 ![](/img/3_0.png)
 
-Đau đớn  ▼▽▽▽▽ 
+Mức độ đau  ▼▽▽▽▽ 
 
 Rắc rối  ▼▽▽▽▽ 
 
-Xấu  ▼▼▼▽▽ 
+Biến dạng  ▼▼▼▽▽ 
 
-Gây náo động  ▼▼▼▽▽ 
+Gây phiền  ▼▼▼▽▽ 
 
 Tác động  ▼▼▼▼▽ 
 
-Sát lực  ▼▼▼▼▽ 
+Tỷ lệ tử vong  ▼▼▼▼▽ 
 
 Nhảy xuống đột ngột không đau. Đây là phương pháp tự tử có sát lực cực cao và hiện đại nhất. Nhảy xuống từ một tòa nhà hay vách đá không hề đau.
 

@@ -2,17 +2,17 @@
 
 ![](/img/2_0.png)
 
-Đau đớn  ▼▽▽▽▽ 
+Mức độ đau  ▼▽▽▽▽ 
 
 Rắc rối  ▼▼▽▽▽ 
 
-Xấu  ▼▼▽▽▽ 
+Biến dạng  ▼▼▽▽▽ 
 
-Gây náo động  ▼▽▽▽▽ 
+Gây phiền  ▼▽▽▽▽ 
 
 Tác động  ▼▼▽▽▽ 
 
-Sát lực  ▼▼▼▼▼ 
+Tỷ lệ tử vong  ▼▼▼▼▼ 
 
 Bộ ba lợi ích của sự chắc chắn, đơn giản và không đau đớn được cả đàn ông, phụ nữ và trẻ em yêu thích, có thể gọi đây là "Vua của tự tử".
 
