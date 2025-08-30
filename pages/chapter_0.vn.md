@@ -18,11 +18,11 @@ Nghĩ lại, tôi nhớ mình đã phát ngán với một cuốn sách xuất b
 
 Ở Hoa Kỳ, chỉ có duy nhất một thiết bị an tử do một học giả phát minh ra (xem Chương 11, Nghiên cứu trường hợp 30). Cuốn sách này sẽ là "thiết bị an tử bằng ngữ" duy nhất ở Nhật Bản.
 
-Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng việc mô tả phương pháp tự tử bằng thuốc. Tuy nhiên, để làm rõ câu hỏi "Tại sao lại tự tử vào lúc này?", và vì nhiều lý do thương mại khác,[^commercial-concerns] trước tiên tôi phải viết một vài điều lặt vặt đã.
+Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng việc mô tả phương pháp tự tử bằng thuốc. Tuy nhiên, để làm rõ câu hỏi "Tại sao lại tự tử vào lúc này?", và vì nhiều lý do thương mại khác,[^commercial-concerns] tôi phải viết một vài điều lặt vặt trước đã.
 
 [^commercial-concerns]: Tác giả muốn cuốn sách phải có phần lời tựa dài, theo thường lệ.
 
-## Chernobyl[^Chernobyl-disaster]
+## Chernobyl [^Chernobyl-disaster]
 
 [^Chernobyl-disaster]:
     Tai nạn Chernobyl, xảy ra vào ngày 26 tháng 4 năm 1986 tại nhà máy điện hạt nhân Chernobyl ở Ukraine thuộc Liên Xô, đã có những hệ quả chính trị đáng kể và ảnh hưởng xa rộng.
@@ -30,7 +30,7 @@ Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng việc mô tả 
     >
     >* Hậu quả chính trị: Tai nạn Chernobyl đã khiến chính sách năng lượng hạt nhân trở thành một vấn đề quan trọng trong dư luận. Sự mất lòng tin và lo âu gia tăng giữa các công dân Liên Xô, đặc biệt là những người ở các khu vực được sơ tán và gần khu vực tai nạn, và chế độ của Tổng thống Gorbachev. Gorbachev bị chỉ trích vì giấu các thông tin quan trọng khỏi phương Tây, ảnh hưởng đến tính hợp pháp và nỗ lực minh bạch của ông. Gánh nặng tài chính từ thảm họa đã đóng góp vào sự mất niềm tin vào giảm tăng trưởng kinh tế xã hội của đất nước.
     >
-    >* Sự sụp đổ của Liên Xô:Sự kết hợp giữa những tổn thất về đạo đức, tài chính và sức khỏe do Chernobyl gây ra được coi là một trong những sự kiện dẫn đến sự sụp đổ của Liên Xô.
+    >* Sự sụp đổ của Liên Xô: Sự kết hợp giữa những tổn thất về đạo đức, tài chính và sức khỏe do Chernobyl gây ra được coi là một trong những sự kiện dẫn đến sự sụp đổ của Liên Xô.
     >
     >* Thị trấn Pripyat: Thị trấn Pripyat, được xây dựng để ở đây cho công nhân và gia đình họ, có dân số khoảng 50.000 người. Sơ tán diễn ra nhanh chóng sau vụ nổ, nhưng chính phủ vẫn mất một khoảng thời gian để thông báo cho người dân về tầm ảnh hưởng thực sự của thảm họa. Một số cư dân Pripyat, bao gồm cả lính cứu hỏa, đã mất mạng trong quá trình kiểm soát đám cháy phóng xạ.
 
@@ -50,7 +50,9 @@ Cuối cùng, mọi người mới đều hiểu rằng việc "trổ tài" là 
 
 [^chernobyl]: "Chernobyl" (チェルノブイリ), một bài hát của THE BLUE HEARTS, phát hành vào ngày 1 tháng 7 năm 1988.
 
-## Một kỳ nghỉ dài
+## A Long Vacation [^long-vaca]
+
+[^long-vaca]: Một kỳ nghỉ dài
 
 Nói rằng nó "nhàm chán" cũng vô ích thôi — chúng ta chỉ là những kẻ xui xẻo khi phải sinh ra trong giai đoạn lịch sử này.
 
@@ -63,7 +65,9 @@ Trong cuốn tiểu thuyết tự truyện "Lời thú tội của một chiếc
 
     *Lời thú tội của một chiếc mặt nạ* (1949) là tiểu thuyết thứ hai của Yukio Mishima. Nhân vật chính của tiểu thuyết là người đồng tính, và trong bối cảnh Đế quốc Nhật Bản, anh đã khó có thể giữ bí mật điều đó.
 
-## Một viên gạch nữa ở trên tường
+## Another Brick in the Wall [^another-brick]
+
+[^another-brick]: Một viên gạch nữa ở trên tường
 
 Năm 1978, một "vụ tự sát Amidakuji (Chân ma)" xảy ra ở Nhật Bản.[^amidakuji]
 
@@ -72,51 +76,60 @@ Năm 1978, một "vụ tự sát Amidakuji (Chân ma)" xảy ra ở Nhật Bản
 
     [Thử thách lập trình Amidakuji (Chân ma). (Đã tìm thấy trang này rồi thì còn rảnh chán)](/amidakuji)
 
-Một cặp chị em song sinh trung học sống ở tỉnh Toyama, Nhật Bản được tìm thấy treo cổ trong rừng. Một trong hai người có một cuốn sổ ghi chép có vẽ một trò chơi Amidakuji với bốn đường kẻ dọc đan xen và một số đường kẻ ngang. Dưới Amidakuji, những từ khó hiểu như "X của Nhật Bản", "Tự tử", "ROS" và "Gosanke" được viết tương ứng. Đường kẻ được vẽ từ trên xuống chạy thẳng đến điểm "Tự tử". Vì cha mẹ họ không thể tìm ra động cơ tự tử, người ta kết luận rằng họ tự tử vì Amidakuji bảo thế. Người ta nói rằng "ROS" có thể có nghĩa là "Rolling Stones", vì nó cũng có những từ như "Japanese X" và "Ghét người Châu Á" được viết trên đó, có thể có liên quan. Tuy nhiên, tôi vẫn không hiểu được ý nghĩa của những từ này.
+Một cặp chị em song sinh trung học sống ở tỉnh Toyama, Nhật Bản được tìm thấy treo cổ trong rừng. Một trong hai người có một cuốn sổ ghi chép có vẽ một bản đồ trò chân ma Amidakuji với bốn đường kẻ dọc đan xen và một số đường kẻ ngang. Bên dưới bản đồ Amidakuji là những từ khó hiểu như "Japanese X (X của Nhật Bản)", "Tự tử", "ROS" và "Gosanke". Các đường kẻ được vẽ từ trên xuống chạy thẳng đến điểm "Tự tử". Vì cha mẹ họ không thể tìm ra động cơ tự tử của con mình, người ta kết luận rằng chính trò Amidakuji này đã dẫn họ đến cái chết. Có ý kiến ​​cho rằng "ROS" có thể là viết tắt của "Rolling Stones", vì các cụm từ như "Japanese X" và "Ghét người Châu Á" cũng được viết trên giấy, nên có thể có mối liên hệ nào đó. Dù thế, tôi vẫn không hiểu được ý nghĩa của những từ này.
 
-Ngày xửa ngày xưa, một thẩm phán đã nói: "Một mạng người nặng hơn cả trái đất". Tuy nhiên, đây là một sự hiểu lầm vô ích. Như hai cô gái trung học vào những năm 1970 đã nhận ra, cuộc sống của một con người rất nhẹ nhõm, nhẹ như những từ lạ như "X của Nhật Bản" và "ROS".
+Một thẩm phán từng nói: "Mạng sống của con người còn quý giá hơn cả Trái Đất". Tuy nhiên, đây là một sự hiểu lầm hoàn toàn vô căn cứ. Như hai em nữ sinh trung học vào những năm 1970 đã nhận ra, mạng sống của một con người nhẹ như không, nhẹ như những từ kì cục "X của Nhật Bản" và "ROS".
 
-Vào cuối những năm 1950, một nhà lý thuyết xã hội đại chúng người Mỹ đã nói: "Quần chúng đã rơi vào cảm giác bất lực do sự phân rã phần tử của xã hội."[^mass-society-theory] Vào cuối những năm 1970, một ban nhạc rock của Anh đã hát "Nhìn chung, tất cả chúng mày chỉ là những viên gạch trên bức tường" (Another Brick in the Wall, bài hát năm 1979 của Pink Floyd), một bài hát đã trở nên rất phổ biến. Ngay cả trong những năm 1990, tình hình này ở Nhật Bản vẫn không thay đổi.
+Cuối những năm 1950, một nhà xã hội học đại chúng người Mỹ đã nhận xét: "Sự phân rã của xã hội đã khiến đông đảo người dân cảm thấy bất lực."[^mass-society-theory] Cuối những năm 1970, một ban nhạc rock của Anh đã hát "Nhìn chung thì, tất cả chúng mày chỉ là những viên gạch trên bức tường" trong bài "Another Brick in the Wall (Một viên gạch nữa ở trên tường)", bài hát của Pink Floyd năm 1979, một bàn hit đình đám. Cho đến tận những năm 1990, tình hình này ở Nhật Bản vẫn không hề thay đổi.
 
 [^mass-society-theory]:
-    Lý thuyết xã hội đại chúng cho rằng những người bị cô lập về mặt xã hội đặc biệt dễ bị ảnh hưởng bởi các phong trào cực đoan. Nó đạt đến đỉnh điểm vào cuối những năm 1950. Mục tiêu chính là giải thích các chế độ toàn trị trong thế kỷ 20, đặc biệt là sự trỗi dậy của chủ nghĩa phát xít và chủ nghĩa cộng sản.
+    Giả thuyết xã hội đại chúng cho rằng những người bị tách biệt khỏi xã hội cực kì dễ bị ảnh hưởng bởi các phong trào cực đoan. Hiện tượng này được thể hiện rõ nhất vào cuối những năm 1950. Mục tiêu nghiên cứu chính là giải thích các chế độ toàn trị trong thế kỷ 20, đặc biệt là sự trỗi dậy của chủ nghĩa phát xít và chủ nghĩa cộng sản.
 
-    > William Kornhauser – được đào tạo về xã hội học Trường phái Chicago – đã viết cuốn Chính trị của xã hội đại chúng (1959). Đây vẫn là một trong những tuyên bố rõ ràng nhất về mối liên hệ giữa xã hội đại chúng và các phong trào xã hội. Được viết trong các góc tối của các khuynh hướng toàn trị đã đề cập ở trên, lý thuyết xã hội đại chúng tìm cách giải thích sự trỗi dậy của chủ nghĩa cực đoan ở nước ngoài và những nguy hiểm đối với nền dân chủ trong nước. Để nhắc lại phân tích của Durkheim về chủ nghĩa vị kỷ và vô chuẩn mực, xã hội đại chúng xuất hiện khi các mạng lưới và nhóm địa phương nhỏ bị suy yếu, để lại những nhóm tinh hoa quyền lực và bộ máy quan liêu đồ sộ ở một bên và những cá nhân bị cô lập ở bên kia. Như Kornhauser đã viết: "Xã hội đại chúng về mặt khách quan là xã hội nguyên tử hóa, và về mặt chủ quan là dân số bị xa lánh . Do đó, xã hội đại chúng là một hệ thống mà ở đó dân số có khả năng huy động cao bởi giới tinh hoa... Những người bị phân tán sẽ dễ dàng được huy động" (Kornhauser 1959: 33). Nói cách khác, xã hội đại chúng là nơi mà "cả giới tinh hoa và không phải giới tinh hoa đều thiếu sự cô lập xã hội; nghĩa là giới tinh hoa có khả năng huy động được sự can thiệp trực tiếp của những người không phải giới tinh hoa, và những người không phải giới tinh hoa luôn sẵn sàng được những người tinh hoa huy động trực tiếp" (Kornhauser 1959: 43).
+    > William Kornhauser – được đào tạo về xã hội học ("xã hội học (Sociology)" hay còn gọi là "Trường phái Chicago" (Chicago school)) – đã viết cuốn "Chính trị của xã hội đại chúng (The Politics of Mass Society)" (1959). Đây là một trong những khẳng định rõ ràng nhất về mối liên hệ giữa xã hội đại chúng và các phong trào xã hội. Được viết dưới mũi các chế độ toàn trị đã đề cập ở trên, giả thuyết xã hội đại chúng tìm cách giải thích sự trỗi dậy của chủ nghĩa cực đoan ở các nước và những mối nguy đối với nền dân chủ nội địa. Nhắc lại phân tích của Durkheim về chủ nghĩa vị kỷ và tình trạng vô chuẩn mực, xã hội quần chúng xuất hiện khi các tổ chức xã hội truyền thống (các "bong bóng" xã hội như gia đình, cộng đồng địa phương, tôn giáo, ...) suy tàn, để lại một bên là giới tinh hoa quyền lực và bộ máy quan liêu khổng lồ, và một bên là các cá nhân bị cô lập. Như Kornhauser đã viết: "Xã hội đại chúng về mặt khách quan là một xã hội bị phân rã, và chủ thể là những người dân thiếu khả năng kết nối với nhau. Do đó, xã hội đại chúng là một hệ thống mà trong đó đó người dân dễ bị thao túng bởi giới có quyền... Đặc biệt là những người bị xã hội cô lập" (Kornhauser 1959: 33). Nói cách khác, xã hội đại chúng là nơi mà "cả giới tinh hoa và phi tinh hoa đều thiếu sự biệt lập xã hội; nghĩa là tầng lớp tinh hoa không còn giữ được sự phân tầng xã hội và trở nên dễ bị tác động bởi công chúng, trong khi giới thường dân lại sẵn sàng tiếp nhận chỉ thị và huy động từ phía tinh hoa." (Kornhauser 1959: 43).
 
-Như mọi khi, mỗi con người chúng ta chỉ là một viên gạch trên bức tường -- bằng chứng là nếu bất kỳ ai trong chúng ta chết, sẽ luôn có người thay thế. Không có sự tồn tại của ai là không thể thay thế được, và không có chính trị gia nào đáng để ám sát. Chỉ thiếu một viên gạch thôi thì bức tường sao mà đổ được.
+Mỗi con người chúng ta chỉ là một viên gạch trên bức tường -- vì bất kể ai chết thì sẽ luôn có người khác thay thế. Không có sự tồn tại của nào của một ai là không thể thay thế được, và không có chính trị gia nào đáng để ám sát. Chỉ thiếu một viên gạch thôi thì không đổ được bức tường.
 
-Mỗi người chúng ta đều đong đầy cảm giác bất lực, và việc chúng ta tồn tại hay không cũng chẳng quan trọng. Nói cách khác, cuộc sống là nhẹ nhõm; đây là yếu tố thứ hai làm dâng cao mong muốn được chết.
+Tất cả chúng ta đều đong đầy cảm giác bất lực, và việc chúng ta tồn tại hay không cũng chẳng quan trọng. Nói cách khác, mạng sống nhẹ như không; đây là yếu tố thứ hai thúc đẩy mong muốn được chết.
 
 ## Clockwork Orange [^ClockworkOrange]
 
-[^ClockworkOrange]: Tên phim
+[^ClockworkOrange]: 
+    "Clockwork Orange": "Quả Cam Cơ Giới" / "Đồng hồ Quả Cam", dịch hơi khó.
 
-Với cảm giác bất lực này, chúng ta làm đi làm lại một công việc một cách chậm rãi, dần dần quên đi "thực tại của việc thực sự sống". Tôi đã dần quên mất mình còn sống hay đã chết. Bạn có cảm thấy mình "còn sống" không? Bây giờ, chỉ còn một ranh giới gần như là vô hình ngăn cách sự sống và cái chết.
+    Đây là tên của một cuốn tiểu thuyết kinh điển của Anthony Burgess và bộ phim nổi tiếng cùng tên do Stanley Kubrick đạo diễn.
 
-Do đó, hãy gạt sang một bên những câu sáo rỗng như "Cuộc sống rất quan trọng, nên bạn không thể tự tử.", "Chỉ cần bạn có thể sống, mọi thứ sẽ thay đổi.", "Vì những người xung quanh bạn sẽ buồn, vì vậy bạn phải sống." Không còn thuyết phục nữa. Những lời nói hiệu quả để ngăn chặn tự tử đã biến mất; những tín hiệu hướng đến tự tử đã xuất hiện.
+    Cái tên này mang tính ẩn dụ sâu sắc và gây nhiều tranh cãi. Theo tác giả Burgess, cụm từ này xuất phát từ một thành ngữ cổ của người Cockney (người dân lao động ở London) là "as queer as a clockwork orange," có nghĩa là một thứ gì đó vô cùng kỳ dị, những thứ “queer” (trước khi từ "queer" được dùng để ám chỉ những người đồng tính).
 
-Đúng vậy, bạn có thể chết. Nếu bạn đi làm hoặc đi học, nếu cuộc sống khó chịu, nhàm chán hoặc thậm chí đau đớn, bạn có thể vượt qua cái ranh giới mong manh, gần như vô hình và tìm đến cái chết, và không ai có thể ngăn cản bạn.
+    Trong ngữ cảnh của tác phẩm, cái tên này còn được giải thích theo một nghĩa khác: "quả cam" (orange) đại diện cho một sinh vật sống, hữu cơ và tự nhiên, còn "cơ giới/đồng hồ" (clockwork) tượng trưng cho một thứ máy móc, nhân tạo. Khi ghép lại, "Clockwork Orange" chỉ một con người bị biến thành một cỗ máy, bị tước đi ý chí tự do và khả năng tự định hình quan niệm của bản thân. Nhân vật chính bị ép buộc phải ứng xử theo chuẩn mực chung, nhưng việc đó lại làm mất đi bản chất con người của anh ta.
 
-Như tôi đã nói trước đây, sẽ không có gì thay đổi đáng kể miễn là chúng ta còn sống. Mặc dù tôi không có năng lực ngoại cảm, nhưng nhìn chung tôi có thể biết được điều gì sẽ xảy ra với xã hội hoặc chúng ta trong tương lai. "Tương lai! Tương lai!", dù câu thần chú này nghe có vẻ thuyết phục đến đâu thì cũng vô dụng. Cuộc sống của bạn có lẽ sẽ chỉ bao gồm việc học tiểu học và trung học cơ sở tại nơi bạn sinh ra, học các trường luyện thi để chuẩn bị cho kỳ thi tuyển sinh quốc gia, rồi vào trung học phổ thông hoặc đại học. Sau bốn năm loay hoay, bạn sẽ làm việc tại một công ty nào đó. Nếu bạn là đàn ông, bạn có thể sẽ kết hôn ở độ tuổi 20 hoặc 30, sinh con vào năm sau đó, có thể là đổi việc hoặc thăng chức vài lần, lên đến vị trí quản lý. Bạn sẽ nghỉ hưu ở tuổi 60 và âm thầm nuôi dưỡng sở thích của riêng mình trong mười hoặc hai mươi năm tới. Cuối cùng, bạn sẽ chết. Thực sự chỉ có thế thôi. Hơn nữa, điều khiến chúng ta tuyệt vọng là đây được cho là cuộc sống lý tưởng nhất.
+Với cảm giác bất lực này, chúng ta cứ từ từ làm đi làm lại một công việc, dần dần đánh mất "cảm giác sống thật". Chúng ta dần quên rằng mình còn sống hay đã chết. Bạn có cảm thấy mình "còn sống" không? Bây giờ, sự sống và cái chết chỉ cách nhau một ranh giới mỏng manh, gần như vô hình.
 
-Với suy nghĩ này, cuộc sống bình thường không còn ý nghĩa gì nữa. Nếu bạn không còn sống nữa, có lẽ bạn chỉ giống như một chú gà con sắp bị quay, được trao cho một cuộc sống mà bạn phải sống một cách thụ động . Vì vậy, việc tạm dừng cuộc sống ở một thời điểm thích hợp không phải là vấn đề "buồn", "điều đó sẽ không xảy ra nữa" hay "lo lắng về những tác động lan tỏa".
+Vì vậy, hãy gạt sang một bên những câu nói sáo rỗng như "Cuộc sống rất quý giá, không thể tự tử được.", "Chỉ cần bạn còn sống, mọi thứ sẽ thay đổi.", "Những người xung quanh bạn sẽ buồn, nên bạn phải sống.". Không còn tác dụng đâu. Những lời khuyên ngăn ngừa tự tử đã hết hiệu nghiệm; giờ là lúc chúng ta tiếp cận đến cái chết.
 
-## Bụi thiên thần
+Đúng vậy, chết cũng không sao cả. Nếu cuộc sống ở nơi làm hoặc trường học trở nên khó chịu, nhàm chán hoặc thậm chí đau khổ, bạn có thể vượt qua cái ranh giới mong manh đó và tìm đến cái chết, và không ai có thể ngăn cản bạn.
 
-Tôi có một người bạn có một loại thuốc gọi là "bụi thiên thần"[^pcp]. Anh ấy khẳng định rằng sau khi dùng thuốc, đầu óc anh ấy sẽ trở nên mơ hồ, và anh ấy có thể nhảy từ các tòa nhà cao tầng mà không hề do dự. Anh ấy đã đóng gói nó trong một túi kim loại nhỏ, làm thành một chiếc vòng cổ đựng túi và đeo nó đi mọi nơi. Anh ấy nói: "Khi cần, tôi có thể ăn nó để tìm đến cái chết." Người bạn của tôi không có công việc ổn định, và anh ấy nhàn rỗi mỗi ngày và có một cuộc sống rất hạnh phúc.
+Như tôi đã nói, sẽ chẳng có gì thay đổi miễn là bạn còn sống. Mặc dù tôi không có năng lực ngoại cảm, nhưng nhìn chung tôi có thể đoán được điều gì sẽ xảy ra với xã hội hoặc bản thân trong tương lai. "Tương lai! Tương lai!", dù mang tính thuyết phục nhưng thật là vô nghĩa. Cuộc sống của bạn có lẽ sẽ chỉ tóm lại là: học tiểu học và trung học cơ sở tại nơi thường trú, học thêm ở các trung tâm luyện thi để chuẩn bị cho kỳ thi tuyển sinh quốc gia, rồi vào trung học phổ thông hoặc đại học. Sau bốn năm rong ruổi vô định, bạn sẽ tìm được việc làm ở một công ty. Là đàn ông thì có thể kết hôn ở độ tuổi hai mươi hoặc ba mươi, sinh con vào năm sau, đổi việc hoặc thăng chức vài lần, lên được đến vị trí quản lý, nghỉ hưu ở tuổi 60 và rồi dành mười hoặc hai mươi năm còn lại để âm thầm tận hưởng sở thích của mình trước khi lìa đời. Thật đáng buồn thay, đây lại được cho là một cuộc sống lý tưởng nhất.
 
-Tôi hy vọng cuốn sách này có thể là chiếc vòng cổ đựng túi kim loại của bạn.
+Với suy nghĩ này, một cuộc sống bình thường không còn có bất kỳ ý nghĩa nào nữa. Nếu bạn không còn sức sống, có lẽ bạn chỉ giống một chú gà con chuẩn bị lên thớt - phải chấp nhận một cuộc sống mà bạn buộc phải sống. Do đó, việc kết thúc cuộc sống vào một thời điểm thích hợp không hề liên quan đến việc "buồn", "điều đó sẽ không xảy ra nữa" hay "lo rằng mình sẽ làm phiền người khác".
 
-[^pcp]: Bụi thiên thần, còn được gọi là phencyclidine (PCP), là một loại thuốc có thể gây ra ảo giác mạnh và thay đổi trạng thái tâm trí.
+Tự tử là một hành động tích cực.
 
-## Một điều nữa
+## Angel Dust [^pcp]
 
-*Phần này được viết bởi Rena, biên dịch viên tiếng Trung.*
+Một người bạn của tôi sở hữu một loại thuốc có tên gọi là "bụi thiên thần". Cậu ta bảo rằng sau khi dùng thuốc, đầu óc sẽ trở nên choáng váng, cảm giác như có thể nhảy lầu mà không hề do dự. Hắn cho thuốc vào một viên nang kim loại nhỏ, làm thành một chiếc vòng cổ và đeo nó đi mọi nơi. Cậu ấy nói: "Nếu cần, tôi có thể dùng nó để tự tử." Bạn tôi không có công việc ổn định, và dành cả ngày để ăn không ngồi rồi, sống một cuộc sống rất hạnh phúc.
 
-Trong lúc tuyệt vọng và tìm cách tự tử, tôi tình cờ tìm thấy cuốn sách này và bị cuốn hút sâu sắc. Do tính đặc thù và tuổi của cuốn sách, tôi đã mất rất nhiều công sức để tìm được bản dịch tiếng Trung dù chưa hoàn thiện nhưng rất quý giá này. "Hoàn thiện bản dịch và hiệu đính cuốn sách!" là mong muốn cuối cùng của tôi vào những giây phút cuối. Khi chứng kiến ​​cuốn sách chuyển từ chưa hoàn thiện sang hoàn thiện, tôi tràn ngập cảm giác thành tựu và có thể ra đi thanh thản.
+Tôi hy vọng cuốn sách này có thể trở thành chiếc vòng cổ viên nang kim loại đó của riêng bạn.
 
-Điều đáng chú ý là cuốn sách này không đề cập đến phương pháp tự tử phổ biến hơn là đốt than, vì vậy tôi đã thêm riêng một phần về tự tử bằng cách đốt than (trong chương "Ngộ độc khí") và một số nội dung khác. Ai cũng có thể cải thiện cuốn sách này, tôi nghĩ đó là những gì mà tác giả gốc sẽ ủng hộ. Ngoài ra, nhiều loại thuốc trong chương "Dùng thuốc" (đặc biệt là bromide và barbiturat) đã bị thay thế bằng các chất ít độc hơn và việc kiểm soát các chất này cũng đã trở nên chặt chẽ hơn. Nhưng tôi vẫn cố gắng hết sức để liệt kê và chú thích các thành phần của các loại thuốc này với hy vọng giúp đỡ những người cần.
+[^pcp]: Bụi thiên thần (Angel Dust), còn được gọi là phencyclidine (PCP), là một loại thuốc có thể gây ra ảo giác mạnh và thay đổi trạng thái tâm trí.
 
-Vì kiến ​​thức y và dược của tôi còn kém, và tôi đang trên bờ vực rối trí và sụp đổ vào thời điểm hiệu đính, nên nội dung của cuốn sách sẽ không thể tránh khỏi những sai và thiếu sót. Xin hãy tha thứ cho tôi.
+## Another Thing
 
-Cuối cùng, tôi muốn cảm ơn người dịch phiên bản tiếng Trung phồn thể của cuốn sách này và tất cả những người đã giúp đỡ tôi trong suốt quá trình qua. Nếu không có các bạn, sẽ không có điều gì có thể xảy ra trong ngày hôm nay. (Rena, 2018-08-05)
+*Một điều nữa (Another Thing). Phần này được viết bởi Rena, người dịch tiếng Trung.*
+
+Trong lúc tuyệt vọng và đang tìm cách tự tử, tôi tình cờ tìm thấy cuốn sách này và bị cuốn hút sâu sắc. Do tính đặc thù và tuổi của cuốn sách, tôi đã mất rất nhiều công sức để tìm được bản dịch tiếng Trung dù chưa hoàn thiện nhưng rất quý giá này. "Hoàn thiện bản dịch và hiệu đính cuốn sách!" là mong muốn cuối cùng của tôi vào những giây phút cuối. Nhìn ​​cuốn sách dần dần được hoàn thiện từng chút một, tôi đã thấy cực kì mãn nguyện và có thể ra đi một cách thanh thản được rồi.
+
+Điều đáng chú ý là cuốn sách này không đề cập đến một phương pháp tự tử phổ biến là đốt than, vì vậy tôi đã thêm riêng một đoạn về tự tử bằng cách đốt than (trong chương "Ngộ độc khí") và một số nội dung khác. Ai cũng có thể cải thiện cuốn sách này, tôi nghĩ tác giả gốc sẽ ủng hộ điều đó. Ngoài ra, hiện nay nhiều loại thuốc trong chương "Dùng thuốc" (đặc biệt là bromide và barbiturat) đã đổi thành phần sang các chất ít độc hơn và việc kiểm soát các chất này cũng đã trở nên chặt chẽ hơn. Nhưng tôi vẫn đã cố gắng hết sức để liệt kê và chú thích các thành phần của các loại thuốc này cho những ai cần.
+
+Vì kiến ​​thức y và dược của tôi còn kém, và tôi đang sụp đổ và rất là rối trí vào thời điểm hiệu đính, nên nội dung của cuốn sách sẽ không thể tránh khỏi những sai và thiếu sót. Xin hãy tha thứ cho tôi.
+
+Cuối cùng, tôi muốn cảm ơn người dịch bản tiếng Trung phồn thể của cuốn sách này và tất cả những người đã giúp đỡ tôi trong suốt quá trình qua. Nếu không có các bạn, sẽ không có điều gì có thể xảy ra trong ngày hôm nay. (Rena, 2018-08-05)

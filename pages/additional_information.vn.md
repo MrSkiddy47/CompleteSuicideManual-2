@@ -1,5 +1,5 @@
 # Thông tin bổ sung
-*Phần này là hoàn toàn được viết bởi CotardSyndrome, biên dịch viên tiếng Anh. Nhưng tôi đã thêm một ghi chú riêng nhỏ cho trang web này.*
+*Phần này là hoàn toàn được viết bởi CotardSyndrome, người dịch tiếng Anh. Nhưng tôi đã thêm một ghi chú riêng nhỏ cho trang web này.*
 
 ## Siêu dữ liệu
 
@@ -64,7 +64,7 @@ ISBN 957-9146-03-9
 
 ### Phiên bản tiếng Trung
 
-Biên dịch viên: Rena, hoặc là YuriMiller
+Người dịch: Rena, hoặc là YuriMiller
 
 Xuất bản: [GitHub](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN)
 
@@ -72,7 +72,7 @@ Ngày xuất bản: 2018-08-05
 
 ### Phiên bản tiếng Anh
 
-Biên dịch viên: Kotaaru Shoukougun, hoặc là CotardSyndrome
+Người dịch: Kotaaru Shoukougun, hoặc là CotardSyndrome
 
 Xuất bản: [GitHub](https://github.com/CotardSyndrome/CompleteSuicideManual-En)
 
@@ -80,7 +80,7 @@ Ngày xuất bản: 2024-04-01
 
 ### Phiên bản tiếng Việt
 
-Biên dịch viên: Yapper689
+Người dịch: Yapper689
 
 Xuất bản: [GitHub](https://github.com/Yapper689/CompleteSuicideManual)
 
@@ -102,7 +102,7 @@ Toàn bộ phiên bản tiếng Anh đã được sao chép trực tiếp vào t
 
 Như đã đề cập trong ghi chú dịch thuật của CotardSyndrome, các trình phân tích cú pháp khác nhau sẽ diễn giải cùng một tài liệu theo cách khác nhau, do đó, các bảng trên trang web này trông sẽ hơi khác một chút, tôi đã không định dạng chúng kỹ lưỡng. Trình kết xuất Markdown của Nextra không hỗ trợ đầy đủ các bảng HTML, do đó các bảng đó trong phiên bản tiếng Anh đã được thay thế bằng các bảng Markdown thông thường (các bảng gốc vẫn nằm trong các tệp Markdown).
 
-Tôi muốn gửi lòng biết ơn sâu sắc nhất đến Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, một người nào đó tự gọi mình là "很笨" (ngu ngốc) hai lần trên fork của anh ấy từ kho lưu trữ của YuriMiller, hay là trên README của anh ấy nhỉ - tôi đã quên mất tên anh ấy rồi cũng như không biết tìm anh ấy ở đâu, và tất cả những người đã khám phá ra tác phẩm này và bị tác động bởi nó. Tôi sẽ mang theo "khoảng trống" của chúng ta cho đến chết. Bạn không hề đơn độc trên con đường này mà chúng ta đã gặp qua.
+Tôi muốn gửi lòng biết ơn sâu sắc nhất đến Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, một người nào đó tự gọi mình là "很笨" (ngu ngốc) hai lần trên fork của anh ấy từ kho lưu trữ của YuriMiller, hay là trên README của anh ấy nhỉ - tôi đã quên mất tên anh ấy rồi cũng như không biết tìm anh ấy ở đâu, và tất cả những người đã khám phá ra tác phẩm này và được tác động bởi nó. Tôi sẽ mang theo "khoảng trống" của chúng ta cho đến chết. Bạn không hề đơn độc trên con đường này mà chúng ta đã gặp qua.
 
 ## Trích dẫn
 
