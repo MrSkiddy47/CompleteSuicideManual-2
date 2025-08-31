@@ -81,7 +81,14 @@ As always, every one of us is just another brick in the wall -- the proof is tha
 
 Each one of us is full of a sense of powerlessness, and it doesn't matter whether we exist or not. In other words, life is light; this is the second factor that inflates the death wish.
 
-## Clockwork Orange
+## Clockwork Orange [^ClockworkOrange]
+
+[^ClockworkOrange]:
+    This is the title of the classic novel by Anthony Burgess and the famous film directed by Stanley Kubrick.
+
+    The name itself is a deeply controversial and allegorical phrase. According to author Anthony Burgess, the term comes from an old Cockney (working-class Londoner) idiom, "as queer as a clockwork orange," which meant something extremely odd (before the word "queer" is used to refer to homosexuals).
+
+    In the context of the novel, the title also has a deeper, separate meaning: the "orange" represents a living, organic, and natural being, while the "clockwork" symbolizes something mechanical and artificial. When combined, "A Clockwork Orange" refers to a human being who has been turned into a machine, stripped of their free will and the ability to choose their own moral path. The protagonist is forced to behave according to social norms, but in doing so, he loses what makes him truly human.
 
 With this sense of powerlessness, we repeatedly do the same things at a slow pace, forgetting little by little "the reality of being truly alive". I have gradually forgotten whether I am alive or dead. Do you feel that you are "alive"? Now, there is only an almost invisible line separating life and death.
 

@@ -2,11 +2,11 @@
 
 Cuốn sách này mô tả chi tiết mọi phương pháp tự tử.
 
-Cuốn sách này không phải là biên niên sử về những vụ tự tử thường xuyên, mà cũng không cố gắng giải thích lý do để tự tử. Mặc dù có thể được đọc như một cuốn hồi ký, nhưng định hướng chung của cuốn sách là khám phá các "cách để tự tử".
+Cuốn sách này không phải là biên niên sử về những vụ tự tử thường xuyên, mà cũng không cố để giải thích các nguyên nhân của hành vi tự tử. Mặc dù có thể đọc như một cuốn hồi ký, nhưng định hướng chung của cuốn sách là khám phá các "cách để tự tử".
 
-Bạn có thể thấy mệt mỏi với phần giới thiệu dài dòng này.
+Bạn có thể thấy chán với phần giới thiệu dài dòng này.
 
-Không biết từ bao giờ, câu hỏi "Tại sao người trẻ lại muốn chết?" đã được bàn đi bàn lại. Ví dụ, hồi những năm 1970, các kết luận đưa ra từng là "Tam nghĩa hư vô"[^mu-shugi], "Thế hệ thờ ơ" [^Shirake-sedai], v.v. Tuy nhiên, những câu hỏi như "Tại sao không nên tự tử?" và "Tại sao phải sống?" vẫn chưa bao giờ có lời giải đáp.
+Không biết từ bao giờ, câu hỏi "Tại sao người trẻ lại muốn chết?" đã được bàn đi bàn lại. Như hồi những năm 1970, các kết luận đưa ra từng là "Nguyên tắc 3 không"[^mu-shugi], "Thế hệ thờ ơ" [^Shirake-sedai], v.v. Tuy nhiên, những câu hỏi như "Tại sao không nên tự tử?" và "Tại sao phải sống?" vẫn chưa bao giờ có lời giải đáp.
 
 [^mu-shugi]: 三無主義 "Sanmu-shugi", nghĩa là "không quyền lực, không hứng thú, không trách nhiệm"
 
@@ -42,11 +42,11 @@ Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng việc mô tả 
 
 [^richter]: Độ Richter là thang đo dùng để xác định độ lớn của một trận động đất dựa trên năng lượng giải phóng. Đây là thang logarit, nghĩa là mỗi bậc tăng lên sẽ có sự gia tăng rất lớn về năng lượng. Động đất 3 độ Richter là một trận động đất yếu. Bạn có thể cảm thấy rung lắc nhẹ, tương tự như một chiếc xe tải nặng đi qua, nhưng thường không gây ra thiệt hại. Một số đồ vật treo có thể đung đưa nhẹ.
 
-Vào cuối thập niên 1980, "ngày tận thế" và "chủ đề thảm hoạ" trở thành xu hướng. Ban nhạc nổi tiếng nhất lúc đó đã hát "Chernobyl"[^chernobyl], những câu chuyện cười của trẻ em đều đậm mùi cái chết, và các cô gái trẻ đã bắt đầu tìm kiếm bạn đồng hành để chuẩn bị cho cuộc chiến tranh thế giới sắp xảy ra. Chúng tôi đã rất phấn khích, "Một ai đó quyền lực sắp tới!", "Có lẽ ngày mai sẽ là ngày tận thế!".
+Vào cuối thập niên 1980, "ngày tận thế" và "chủ đề thảm hoạ" trở thành xu hướng. Ban nhạc nổi tiếng nhất lúc đó đã hát "Chernobyl"[^chernobyl], những câu chuyện cười của trẻ em đều đậm mùi cái chết, và các cô gái trẻ đã bắt đầu tìm kiếm bạn đồng hành để chuẩn bị cho cuộc chiến tranh thế giới sắp xảy ra. Chúng tôi đã rất phấn khích, "Một ai đó quyền lực sắp tới!", "Có lẽ mai sẽ là ngày tận thế!".
 
-Tuy nhiên, ngày tận thế đã không đến. Quả bom nguyên tử chưa bao giờ phát nổ, và giấc mơ về một cuộc chiến tranh hạt nhân toàn cầu đã tan biến không dấu vết. Những nhà cách mạng của thập niên 1980 đã thất vọng hoàn toàn.
+Tuy nhiên, ngày tận thế đã không đến. Quả bom nguyên tử chưa bao giờ phát nổ, và giấc mơ về một cuộc chiến tranh hạt nhân toàn cầu đã tan biến không dấu vết. Những kẻ nổi loạn của thập niên 1980 đã phải thất vọng hoàn toàn.
 
-Cuối cùng, mọi người mới đều hiểu rằng việc "trổ tài" là một điều không thể, và thế kỷ 22 chắc chắn sẽ đến. (Dĩ nhiên, thế kỷ 21 đang đến rồi, vì sẽ không có "chiến tranh thế giới".) Thế giới chắc chắn sẽ không kết thúc. Chỉ một cuộc gặp gỡ ngắn ngủi với "thế giới bên kia" và "bên ngoài" thôi thì không thể thỏa mãn chúng ta được. Nếu bạn muốn phấn khích hơn, nếu bạn thực sự muốn thế giới kết thúc, bạn chỉ có thể làm "điều đó".
+Cuối cùng, mọi người mới đều hiểu được rằng việc "trổ tài" là một điều không thể, và thế kỷ 22 chắc chắn sẽ đến. (Dĩ nhiên, thế kỷ 21 đang đến rồi, vì sẽ không có "chiến tranh thế giới".) Thế giới chắc chắn sẽ không kết thúc. Chỉ một cuộc gặp gỡ ngắn ngủi với "thế giới bên kia" và "bên ngoài" thôi thì không thể thỏa mãn chúng ta được. Nếu bạn muốn phấn khích hơn, nếu bạn thực sự muốn thế giới kết thúc, bạn chỉ có thể làm "điều đó".
 
 [^chernobyl]: "Chernobyl" (チェルノブイリ), một bài hát của THE BLUE HEARTS, phát hành vào ngày 1 tháng 7 năm 1988.
 
@@ -108,7 +108,7 @@ Vì vậy, hãy gạt sang một bên những câu nói sáo rỗng như "Cuộc
 
 Đúng vậy, chết cũng không sao cả. Nếu cuộc sống ở nơi làm hoặc trường học trở nên khó chịu, nhàm chán hoặc thậm chí đau khổ, bạn có thể vượt qua cái ranh giới mong manh đó và tìm đến cái chết, và không ai có thể ngăn cản bạn.
 
-Như tôi đã nói, sẽ chẳng có gì thay đổi miễn là bạn còn sống. Mặc dù tôi không có năng lực ngoại cảm, nhưng nhìn chung tôi có thể đoán được điều gì sẽ xảy ra với xã hội hoặc bản thân trong tương lai. "Tương lai! Tương lai!", dù mang tính thuyết phục nhưng thật là vô nghĩa. Cuộc sống của bạn có lẽ sẽ chỉ tóm lại là: học tiểu học và trung học cơ sở tại nơi thường trú, học thêm ở các trung tâm luyện thi để chuẩn bị cho kỳ thi tuyển sinh quốc gia, rồi vào trung học phổ thông hoặc đại học. Sau bốn năm rong ruổi vô định, bạn sẽ tìm được việc làm ở một công ty. Là đàn ông thì có thể kết hôn ở độ tuổi hai mươi hoặc ba mươi, sinh con vào năm sau, đổi việc hoặc thăng chức vài lần, lên được đến vị trí quản lý, nghỉ hưu ở tuổi 60 và rồi dành mười hoặc hai mươi năm còn lại để âm thầm tận hưởng sở thích của mình trước khi lìa đời. Thật đáng buồn thay, đây lại được cho là một cuộc sống lý tưởng nhất.
+Như tôi đã nói, sẽ chẳng có gì thay đổi miễn là bạn còn sống. Mặc dù tôi không có năng lực ngoại cảm, tôi có thể đoán chung được tương lai của một đời người. "Tương lai! Tương lai!", lời hô hào này nghe có vẻ rất hùng hồn, nhưng nó thật vô ích. Cuộc sống của bạn có lẽ sẽ chỉ tóm lại là: học tiểu học và trung học cơ sở tại nơi thường trú, học thêm ở các trung tâm luyện thi để chuẩn bị cho kỳ thi tuyển sinh quốc gia, rồi vào trung học phổ thông hoặc đại học. Sau bốn năm rong ruổi vô định, bạn sẽ tìm được việc làm ở một công ty. Là đàn ông thì có thể kết hôn ở độ tuổi hai mươi hoặc ba mươi, sinh con vào năm sau, đổi việc hoặc thăng chức vài lần, lên được đến vị trí quản lý, nghỉ hưu ở tuổi 60 và rồi dành mười hoặc hai mươi năm còn lại để âm thầm tận hưởng sở thích của mình trước khi lìa đời. Thật đáng buồn thay, đây lại được cho là một cuộc sống lý tưởng nhất.
 
 Với suy nghĩ này, một cuộc sống bình thường không còn có bất kỳ ý nghĩa nào nữa. Nếu bạn không còn sức sống, có lẽ bạn chỉ giống một chú gà con chuẩn bị lên thớt - phải chấp nhận một cuộc sống mà bạn buộc phải sống. Do đó, việc kết thúc cuộc sống vào một thời điểm thích hợp không hề liên quan đến việc "buồn", "điều đó sẽ không xảy ra nữa" hay "lo rằng mình sẽ làm phiền người khác".
 
