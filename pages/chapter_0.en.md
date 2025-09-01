@@ -59,18 +59,23 @@ Yukio Mishima[^mishima] mentioned in his autobiographical novel "Confessions of 
 
 ## Another Brick in the Wall
 
-In 1978, an "Amidakuji (Ghost leg) suicide incident" occurred in Japan.[^amidakuji]
+In 1978, an "Amidakuji suicide incident" occurred in Japan.[^amidakuji]
 
 [^amidakuji]: 
-    Typically called "あみだくじ自殺事件". It seems that the only source for the event is in Hokkoku Shimbun, September 5, 1978 (Showa 53), evening edition. It is described in detail in 別所実の犯罪症候群 (1981, ISBN 978-4385351957) pages 161--171.
+    Amidakuji (Ghost leg). Typically called "あみだくじ自殺事件". It seems that the only source for the event is in Hokkoku Shimbun, September 5, 1978 (Showa 53), evening edition. It is described in detail in 別所実の犯罪症候群 (1981, ISBN 978-4385351957) pages 161--171.
 
     [Try the Amidakuji (Ghost leg) code challenge (idk since ur here mite as well - Yapper).](/amidakuji)
 
-A pair of highschool twin sisters living in Toyama Prefecture, Japan, were found hanging in the woods. In the notebook of one of them, an Amidakuji game was drawn with four straight lines and several horizontal lines interlaced. Under the Amidakuji, the incomprehensible words "X of Japanese", "Suicide", "ROS", and "Gosanke" are written respectively. The line drawn from above goes all the way to the "Suicide" point. Since their parents could not figure out the motive for their suicide, they concluded that they committed suicide because the Amidakuji said so. It is said that "ROS" may have meant "Rolling Stones", since it also has words like "Japanese X" and "Hate Asians" written on it, it might have something to do with it. However, I still can't understand the meaning of these words.
+A pair of highschool twin sisters living in Toyama Prefecture, Japan, were found hanging in the woods. In the notebook of one of them, an Amidakuji game was drawn with four straight lines and several horizontal lines interlaced. Under the Amidakuji, the incomprehensible words "X Japan"[^x-japan], "Suicide", "ROS", and "Gosanke"[^gosanke] are written respectively. The line drawn from above goes all the way to the "Suicide" point. Since their parents could not figure out the motive for their suicide, they concluded that they committed suicide because the Amidakuji said so. It is said that "ROS" may have meant "Rolling Stones", since it also has words like "X Japan" and "Gosanke" written on it, it might have something to do with it. However, I still can't understand the meaning of these words.
 
-Once upon a time, a judge said: "A single human life weights more than the entire earth." However, this is an extremely worthless misunderstanding. As two high school girls in the 1970s have already realized, a human life is very light, as light as strange words like "X of Japanese" and "ROS".
+Once upon a time, a judge said: "A single human life weights more than the entire earth." However, this is an extremely unfounded misconception. As two high school girls in the 1970s have already realized, a human life is very light, as light as strange words like "X Japan" and "ROS".
 
-In the late 1950s, an American mass society theorist said: "The masses have fallen into a sense of powerlessness due to social atomization."[^mass-society-theory] In the late 1970s, a British rock band sang "All in all you're just another brick in the wall" (Another Brick in the Wall, 1979 song by Pink Floyd), a song that became very popular. Even in the 1990s, this situation in Japan has not changed.
+[^x-japan]: May refer to "X Japan", a Japanese rock band from Chiba, formed in 1982 by drummer and pianist Yoshiki and lead singer Toshi.
+
+[^gosanke]:
+    "Gosanke" is a term used to refer to the three most popular and sought-after Koi breeds: Kohaku, Taisho Sanshoku (Sanke), and Showa Sanshoku (Showa). "Gosanke" means "three families" in Japanese, symbolizing the diversity and beauty of these three breeds.
+
+    In the late 1950s, an American mass society theorist said: "The masses have fallen into a sense of powerlessness due to social atomization."[^mass-society-theory] In the late 1970s, a British rock band sang "All in all you're just another brick in the wall" (Another Brick in the Wall, 1979 song by Pink Floyd), a song that became very popular. Even in the 1990s, this situation in Japan has not changed.
 
 [^mass-society-theory]:
     Mass society theory posits that people who are socially isolated are especially vulnerable to the appeals of extremist movements. It reached its peak in late 1950s. Its main goal was to explain totalitarian regimes in the 20th century, especially the rise of fascism and communism.

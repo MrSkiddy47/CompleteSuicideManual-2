@@ -36,7 +36,7 @@ The Japanese version is available by searching for "完全自殺マニュアル"
 
 ## Thank you
 
-My deepest gratitude to Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, that one guy who called himself "很笨" (stupid) twice on his fork of YuriMiller's repository, or was it his README - I forgot his name or where to find him, and everyone who has discovered this work and was influenced by it. I'll carry on our void until death. You're not alone on this path that we've crossed.
+My deepest gratitude to Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, that one guy who called himself "很笨" (stupid) twice on his fork of YuriMiller's repository, or was it his README - I forgot his name or where to find him, and everyone who has discovered this work and was influenced by it. Made me realize that "I'm lonely but not alone".
 
 ## License
 
@@ -84,7 +84,7 @@ Kiếm bản tiếng Nhật bằng cách tìm "完全自殺マニュアル" trê
 
 ## Cảm ơn
 
-Tôi muốn gửi lòng biết ơn sâu sắc nhất đến Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, một người nào đó tự gọi mình là "很笨" (ngu ngốc) hai lần trên fork của anh ấy từ kho lưu trữ của YuriMiller, hay là trên README của anh ấy nhỉ - tôi đã quên mất tên anh ấy rồi và cũng không biết tìm anh ta ở đâu, và tất cả những người đã khám phá ra tác phẩm này và bị tác động bởi nó. Tôi sẽ mang theo "khoảng trống" của chúng ta cho đến chết. Bạn không hề đơn độc trên con đường này mà chúng ta đã gặp qua.
+Tôi muốn gửi lòng biết ơn sâu sắc nhất đến Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, một người nào đó tự gọi mình là "很笨" (ngu ngốc) hai lần trên fork của anh ấy từ kho lưu trữ của YuriMiller, hay là trên README của anh ấy nhỉ - tôi đã quên mất tên anh ấy rồi và cũng không biết tìm anh ta ở đâu, và tất cả những người đã khám phá ra tác phẩm này và bị tác động bởi nó. Các bạn đã giúp tôi nhận ra "Tôi cô đơn nhưng không hề đơn độc".
 
 ## Giấy phép
 

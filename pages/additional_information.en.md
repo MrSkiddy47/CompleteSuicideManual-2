@@ -98,11 +98,13 @@ The document is *mostly* compliant to the extended Markdown syntax. Why *mostly*
 
 ## Yapper689's translation notes
 
-The entirety of the English and Chinese version are directly copied onto the site and I mostly translated the book based on CotardSyndrome's edition, with some minor corrections, annotations and notes of my own. I don't know neither Japanese nor Chinese so this is my only source of reference. Same with the others', there will be plenty of mistakes, but unfortunately I'm not a perfectionist, and it's highly unlikely that one will ever come here.
+The README is a lie. The Vietnamese translation is not complete yet. Please wait a few more months!
 
-As mentioned in CotardSyndrome's translation notes, different parsers interpret the same document differently, so the tables on this site may look slightly different from his, I did not format them thoroughly. Nextra's Markdown renderer does not fully support HTML tables, so those in the English edition has been replaced with regular Markdown tables (the original tables are still in the Markdown files).
+The entirety of the English and Chinese version are directly copied onto the site and I mostly translated the book based on CotardSyndrome's edition, with some minor corrections, annotations and notes of my own. I don't know neither Japanese nor Chinese so this is my only source of reference, though I do think Rena's Chinese translation is more spot on, which makes sense giving the pan-Asian nature of the languages. Same with the others', there will be plenty of mistakes, but unfortunately I'm not a perfectionist, and it's highly unlikely that one will ever come here.
 
-My deepest gratitude to Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, that one guy who called himself "很笨" (stupid) twice on his fork of YuriMiller's repository, or was it his README - I forgot his name or where to find him, and everyone who has discovered this work and was influenced by it. I'll carry on our void until death. You're not alone on this path that we've crossed.
+Rena's Chinese version is kept intact along with his annotations.
+
+My deepest gratitude to Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, that one guy who called himself "很笨" (stupid) twice on his fork of YuriMiller's repository, or was it his README - I forgot his name or where to find him, and everyone who has discovered this work and was influenced by it. Made me realize that "I'm lonely but not alone".
 
 ## Citations
 

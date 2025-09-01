@@ -98,11 +98,13 @@ Tài liệu *hầu hết* tuân thủ cú pháp Markdown mở rộng. Tại sao 
 
 ## Ghi chú dịch thuật của Yapper689
 
-Toàn bộ phiên bản tiếng Anh đã được sao chép trực tiếp vào trang web và tôi chủ yếu dịch cuốn sách dựa trên phiên bản đó, với một số chỉnh sửa nhỏ, chú thích và ghi chú của riêng tôi. Tôi không biết tiếng Nhật hay tiếng Trung nên đây là nguồn tham khảo duy nhất của tôi. Tương tự như những bản khác, sẽ có nhiều lỗi, nhưng thật không may, tôi không phải là người cầu toàn và khả năng thấp là sẽ có một người như vậy đến đây.
+Phần README là bịp đó. Bản dịch tiếng Việt vẫn chưa được hoàn thiện đâu. Gắng chờ thêm mấy tháng!
 
-Như đã đề cập trong ghi chú dịch thuật của CotardSyndrome, các trình phân tích cú pháp khác nhau sẽ diễn giải cùng một tài liệu theo cách khác nhau, do đó, các bảng trên trang web này trông sẽ hơi khác một chút, tôi đã không định dạng chúng kỹ lưỡng. Trình kết xuất Markdown của Nextra không hỗ trợ đầy đủ các bảng HTML, do đó các bảng đó trong phiên bản tiếng Anh đã được thay thế bằng các bảng Markdown thông thường (các bảng gốc vẫn nằm trong các tệp Markdown).
+Toàn bộ phiên bản tiếng Anh đã được sao chép trực tiếp vào trang web và tôi chủ yếu dịch cuốn sách dựa trên phiên bản đó, với một số chỉnh sửa nhỏ, chú thích và ghi chú của riêng tôi. Tôi không biết tiếng Nhật hay tiếng Trung nên đây là nguồn tham khảo duy nhất của tôi, nhưng tôi thấy bản tiếng Trung dịch sát nghĩa bản gốc hơn do bản chất liên Á của các ngôn ngữ. Tương tự như những bản khác, sẽ có nhiều lỗi, nhưng thật không may, tôi không phải là người cầu toàn và khả năng thấp là sẽ có một người như vậy đến đây.
 
-Tôi muốn gửi lòng biết ơn sâu sắc nhất đến Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, một người nào đó tự gọi mình là "很笨" (ngu ngốc) hai lần trên fork của anh ấy từ kho lưu trữ của YuriMiller, hay là trên README của anh ấy nhỉ - tôi đã quên mất tên anh ấy rồi cũng như không biết tìm anh ấy ở đâu, và tất cả những người đã khám phá ra tác phẩm này và được tác động bởi nó. Tôi sẽ mang theo "khoảng trống" của chúng ta cho đến chết. Bạn không hề đơn độc trên con đường này mà chúng ta đã gặp qua.
+Bản tiếng Trung của Rena được giữ y nguyên cùng với những ghi chú của cậu ấy.
+
+Tôi muốn gửi lòng biết ơn sâu sắc nhất đến Wataru Tsurumi, YuriMiller / Rena, CotardSyndrome, một người nào đó tự gọi mình là "很笨" (ngu ngốc) hai lần trên fork của anh ấy từ kho lưu trữ của YuriMiller, hay là trên README của anh ấy nhỉ - tôi đã quên mất tên anh ấy rồi cũng như không biết tìm anh ấy ở đâu, và tất cả những người đã khám phá ra tác phẩm này và được tác động bởi nó. Các bạn đã giúp tôi nhận ra "Tôi cô đơn nhưng không hề đơn độc".
 
 ## Trích dẫn
 
