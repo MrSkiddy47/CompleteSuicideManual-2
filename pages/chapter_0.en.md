@@ -75,7 +75,9 @@ Once upon a time, a judge said: "A single human life weights more than the entir
 [^gosanke]:
     "Gosanke" is a term used to refer to the three most popular and sought-after Koi breeds: Kohaku, Taisho Sanshoku (Sanke), and Showa Sanshoku (Showa). "Gosanke" means "three families" in Japanese, symbolizing the diversity and beauty of these three breeds.
 
-    In the late 1950s, an American mass society theorist said: "The masses have fallen into a sense of powerlessness due to social atomization."[^mass-society-theory] In the late 1970s, a British rock band sang "All in all you're just another brick in the wall" (Another Brick in the Wall, 1979 song by Pink Floyd), a song that became very popular. Even in the 1990s, this situation in Japan has not changed.
+    Here, "Gosanke" can refer to the "Gosanke" (a special trio) of the kayōkyoku music (Japanese pop music) from the 1960s, which includes male singers Teruhiko Saigō, Yukio Hashi, and Kazuo Funaki.
+
+In the late 1950s, an American mass society theorist said: "The masses have fallen into a sense of powerlessness due to social atomization."[^mass-society-theory] In the late 1970s, a British rock band sang "All in all you're just another brick in the wall" (Another Brick in the Wall, 1979 song by Pink Floyd), a song that became very popular. Even in the 1990s, this situation in Japan has not changed.
 
 [^mass-society-theory]:
     Mass society theory posits that people who are socially isolated are especially vulnerable to the appeals of extremist movements. It reached its peak in late 1950s. Its main goal was to explain totalitarian regimes in the 20th century, especially the rise of fascism and communism.

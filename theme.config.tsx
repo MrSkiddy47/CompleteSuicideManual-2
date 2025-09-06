@@ -34,8 +34,8 @@ const config: DocsThemeConfig = {
     text: (
       <span>
         By Tsurumi Wataru © 1993.<br />
-        Site by Yapper689 - CCO 1.0 2025.<br />
-        Powered by <a href="https://nextra.site" target="_blank">Nextra</a> - MIT 2025.<br />
+        Site by Yapper689 • CCO 1.0 2025.<br />
+        Powered by <a href="https://nextra.site" target="_blank">Nextra</a> • MIT 2025.<br />
         Reading on {new Date().toLocaleString('default', { month: 'long', day: 'numeric', year: 'numeric' })}.
       </span>
     ),

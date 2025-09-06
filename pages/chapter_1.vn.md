@@ -14,27 +14,17 @@ Tác động[^impact] ▼▽▽▽▽
 
 Tỷ lệ tử vong ▼▽▽▽▽
 
-[^ripple]: 迷惑, Mức độ gây phiền người khác khi phải dọn dẹp nếu bạn chết theo cách này.
+[^ripple]: 迷惑, Mức độ gây phiền cho người khác khi phải dọn dẹp nếu bạn chết theo cách này.
 
-[^impact]: インパクト, dịch đúng là "tác động". Tuy nhiên, tôi không thể hiểu được nghĩa của nó. Có phải nó nghĩa là "tác động trực quan của cảnh tượng xác chết lên người khác" không? Nhưng tại sao chúng ta lại có một danh mục riêng cho "Biến dạng" và "Tác động"? Đối với hầu hết các phương pháp, hai hàng này có điểm khá giống nhau, ngoại trừ chết đuối có "Xấu" 4/5, nhưng "Tác động" thì 1/5. Thật khó để hiểu.
+[^impact]: インパクト, dịch đúng là "tác động". Tuy nhiên, tôi không thể hiểu được nghĩa của nó. Nó có phải nghĩa là "mức độ ám ảnh cho người khác" không? Thế tại sao vẫn có "Biến dạng" và "Tác động"? Đối với hầu hết các phương pháp, hai mục này có điểm khá giống nhau, ngoại trừ việc phương pháp chết đuối có "Xấu" 4/5, nhưng "Tác động" thì lại là 1/5. Khó hiểu.
 
-[ 
+Nếu bạn có quyết tâm, dùng thuốc quá liều là cách tốt nhất để tự tử. Tuy nhiên, có rất nhiều trường hợp thất bại và việc chuẩn bị cũng sẽ mất rất nhiều thời gian. Mức độ đau thì tùy từng loại thuốc.
 
-Ghi chú của biên dịch viên tiếng Việt: 
+Trên bàn rải rác những viên nang và viên nén có đủ mọi loại màu như đỏ, vàng và xanh lam, hoặc một đống bột trắng như tuyết. Khi bạn nuốt đống này, bạn sẽ từ từ chìm vào giấc ngủ và không bao giờ tỉnh lại nữa. Đây như một giấc ngủ bình yên lâu dài, và do đó, phương pháp tự tử này là lý tưởng nhất, chỉ có thể đạt được bằng thuốc.
 
-Trong chú thích cuối trang của biên dịch viên tiếng Anh CotardSyndrome, anh ấy bảo "Ripple" chỉ "Mức độ gây phiền cho người khác". Tôi nghĩ điều đó là không đúng cho lắm. "Ripple", dịch là "Gợn sóng", ở đây có thể hiểu là "Ripple effect", hay "Hiệu ứng gợn sóng", là một hiệu ứng lan tỏa liên tục tác động của một sự việc hoặc hành động chứ không đơn thuần chỉ là "gây phiền cho người khác". Nên tôi sẽ để ở đây là "Gây náo động". Nhưng nếu thế thì nó lại có nghĩa giống giống hàng bên dưới, "impact" - "tác động". Nhưng mà hàng bên dưới lại có vấn đề của riêng nó nên tạm thời chúng ta hãy hiểu như thế này: "Ripple" - "Gây náo động", là phạm vi gợn sóng, còn "impact" - "tác động" là cường độ gợn sóng. "Cường độ gợn sóng", thường nhưng không phải là luôn, có ảnh hưởng đến "phạm vi gợn sóng". Hoặc để dễ hiểu nhất thì bản chất của nó là "hiệu ứng Domino". Xin lỗi đã dài dòng.
+Một số loại thuốc có thể kiểm soát tâm trí. Não là thiết bị kiểm soát hệ thống có trách nhiệm cho sự tự tổ chức của cơ thể con người. Từ chức năng hô hấp cho đến việc điều chỉnh nhịp tim, các hoạt động duy trì sự sống đều là do não kiểm soát. Nên lưu ý rằng việc sử dụng thuốc để phá hủy toàn bộ hệ thống định dạng "bản thân" cũng có thể được coi là một loại phương pháp mổ não tự tay làm lấy.
 
-"インパクト", dịch là "impact", dịch là "tác dộng". Tuy nhiên, cũng như CotardSyndrome đã chú thích, tôi cũng bó tay với từ này. Hay nó có "tác dộng" sâu xa hơn, mức độ lớn của một ngụ ý nào đó gây ra bởi phương pháp đã "tác động" lên nhận thức của người khác? Khó hiểu thật. 
-
-]
-
-Nếu bạn có quyết tâm, dùng thuốc quá liều là cách tốt nhất để tự tử. Tuy nhiên, có rất nhiều trường hợp thất bại và việc thời gian chuẩn bị quá lâu cũng là một vấn đề lớn. Độ đau khác nhau tùy thuộc vào loại thuốc.
-
-Trên bàn rải rác những viên nang và viên nén có nhiều màu sắc khác nhau như đỏ, vàng và xanh lam, hoặc một đống bột trắng như tuyết. Khi bạn nuốt những viên thuốc này, bạn sẽ từ từ chìm vào giấc ngủ và không bao giờ tỉnh lại nữa. Đây như một giấc ngủ yên bình kéo dài, và do đó, đây là phương pháp tự tử lý tưởng nhất, chỉ có thể đạt được thông qua thuốc.
-
-Một số loại thuốc kiểm soát tâm trí. Não là một thiết bị kiểm soát hệ thống chịu trách nhiệm cho sự tự tổ chức của cơ thể con người. Cho dù đó là chức năng hô hấp hay kiểm soát nhịp tim, các chức năng của các hoạt động duy trì sự sống đều do não kiểm soát. Cần lưu ý ở đây là kỹ thuật được sử dụng để phá hủy toàn bộ hệ thống "bản thân" bằng cách làm mất dần đi sự phối hợp của thiết bị điều khiển này thông qua thuốc là một loại phương pháp tự phẫu thuật cắt thùy não.
-
-Thuốc không gây chết người không phải là thuốc.
+Thuốc mà không gây chết người thì không phải là thuốc.
 
 Bất kể loại thuốc nào, đều có "liều hiệu quả", "liều độc" và "liều gây chết / liều tử vong". Một số chuyên gia cũng nói rằng "Liều lượng tạo ra chất độc". Bất kỳ loại thuốc nào cũng có thể gây tử vong. Chỉ là khoảng cách giữa liều hiệu quả và liều gây chết thường khá lớn. Để đạt được liều gây chết, phải nuốt một lượng đáng kể, một nhiệm vụ khó khăn. Với khoa học dược phẩm hiện đại, khoảng cách này ngày càng rộng hơn. Nói cách khác, thuốc ngày càng an toàn hơn. Những gì tôi muốn mô tả ở đây là những loại thuốc có khoảng cách hẹp.
 
