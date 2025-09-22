@@ -1,6 +1,6 @@
 # The Complete Manual of Suicide
 
-The Chinese / English / Vietnamese translation of "Complete Suicide Manual" is complete, annotated and supports multi-language i18n.
+The Chinese / English / Vietnamese translation of "The Complete Manual of Suicide" is complete, annotated and supports multi-language i18n.
 
 In the translation site, you can switch between the Chinese, English or Vietnamese version. 
 
