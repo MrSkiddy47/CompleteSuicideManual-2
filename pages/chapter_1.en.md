@@ -805,7 +805,7 @@ At this point, you may be wondering why the commonly heard names of potassium cy
 
 The ovaries and liver of puffer fish are highly toxic, but due to differences in the fish body and the season, the toxicity will vary to a certain extent. Even if you get it, it may not be suitable for suicide. Regarding these, drugs that are difficult to obtain and their lethal doses are tabulated at the end of this chapter. If you can get it, I hope you can use it as you see fit.
 
-## Case study 3: A boy who died eight days after drinking paraquat
+#### Case study 3: A boy who died eight days after drinking paraquat
 
 In October 1985 in Gunma County, family members returning home from an outing found a boy in the second grade of middle school (14 years old at the time) wandering around in the room holding his stomach. That morning he went out as usual, drank about 40 to 50 ml of the pesticide paraquat in the forest away from school, and then returned home. In addition to bicycles and schoolbags used for school, there were also hastily written suicide notes, traces of vomiting, and medicine bottles left behind in the mountains and forests. When he was taken to the hospital, his mouth and throat were ulcerated, and his mouth bled whenever he screamed. After that, although it was quite painful, he still said "I want to eat early", "I want to read comics", "Thank you, Mom and Dad". After a while, he started to say some fantasy words, "My bus has left", "The UFO is coming" and so on. Sometimes he would make such a loud noise that it would take four adults to subdue him, but he would still die eight days later.
 
@@ -815,7 +815,7 @@ He is a computer fanatic, reading books about computers, and also likes cartoons
 
 [^urusei-yatsura]: Urusei Yatsura (うる星やつら) is a Japanese manga series written and illustrated by Rumiko Takahashi. It was serialized in Shogakukan's Weekly Shōnen Sunday from September 1978 to February 1987. It tells the story of Ataru Moroboshi, and the alien Lum, who believes she is Ataru's wife after he accidentally proposes to her. The manga has been adapted to anime, twice.
 
-### Check: the cause of death
+##### Check: the cause of death
 
 Words such as "nausea", "mucosal corrosion", and "disorder" have been used in the case report. In fact, these are the symptoms.
 

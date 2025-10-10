@@ -827,7 +827,7 @@ Cậu ấy là một người đam mê máy tính, nghiền ngẫm những cuố
 
 [^urusei-yatsura]: Urusei Yatsura (うる星やつら) là một bộ truyện tranh Nhật Bản do Rumiko Takahashi biên kịch và minh họa. Bộ truyện được đăng nhiều kỳ trên Weekly Shōnen Sunday của Shogakukan từ tháng 9 năm 1978 đến tháng 2 năm 1987. Bộ truyện kể về câu chuyện của Ataru Moroboshi và một cô bé người ngoài hành tinh tên Lum, người đã tin rằng cô là vợ của Ataru sau khi anh ấy vô tình cầu hôn cô. Tác phẩm đã được chuyển thể thành anime, hai lần.
 
-### Kiểm tra: nguyên nhân tử vong
+##### Kiểm tra: nguyên nhân tử vong
 
 Những từ như "buồn nôn", "ăn mòn niêm mạc" và "lú lẫn" đã được sử dụng trong báo cáo điều tra trường hợp. Nói thật thì đây chính là các triệu chứng.
 
