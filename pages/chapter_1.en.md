@@ -132,7 +132,13 @@ Vietnamese edition Translator's note: Here's a rough translation,
 | - | - | - | - | - | - |
 | Risuron S | Bromvalerylurea | Estimated 10g(A)<br> 10～30g(B)<br> 20g(C) <br> 15～20g( D,E,F) | 100mg | 100～300 pieces | 12 pieces/450 yen |
 
+\[
+
+English edition Translator's note:
+
 The "standard name" refers to the name of the active ingredient in the drug. The "product name" is the trademarked names for trademarked products produced by specific pharmaceutical companies. For example, "Aspirin" is a product name for drugs with the active substance of "acetylsalicylic acid".
+
+\]
 
 In the 1950s and 1960s after the war, there was a second sleeping pill suicide craze. Mainly young people in their twenties, the number of people who commit suicide by taking sleeping pills greatly exceeds the number of people who hang themselves. Bromovalerylurea was sold under the brand name "Burobarin" (ブロバリン), and was the main drug for the second suicide craze. At the time when Ryūnosuke Akutagawa committed suicide by taking sleeping pills in 1926, causing the first suicide craze, bromovalerylurea was sold under the name "Calmotin" (カルモチン), and widely used. Osamu Dazai also used Calmotin to make several lover's double suicide attempts. Therefore, it is clear that bromovalerylurea is a long-standing suicide drug in Japan.
 
@@ -140,7 +146,7 @@ Currently, bromovalerylurea is designated as a "drug that must be used under a d
 
 When the conditions are ripe, as long as a lethal dose is taken, the central nervous system will fall under the drugs' effect, (the excitatory powers of the brain and spinal cord nerves will fail), and consciousness will be lost quickly. Death will occur mainly due to respiratory arrest in about an hour. Someone died after taking 50 tablets of burobarin (Case study 2), but it is still appropriate to take 200 tablets. 200 tablets is enough to fill both hands. If this is all that's needed amount, then there is no need to mix it with yogurt (Case study 1).
 
-In addition, medicines that contain 100 mg of bromovalerylurea in one tablet include "Muurumin" (ム－ルミン, by Kobayashi Pharmaceutical Co., Ltd.), "Day and Night" (Taisho Pharmaceutical Co., Ltd.), etc. "Risuron S" is made purely from bromovalerylurea, but others contain some caffeine and other ingredients. Because it contains other active ingredients, the total dosage increases, and the possibility of vomiting increases.
+In addition, medicines that contain 100 mg of bromovalerylurea in one tablet include "Muurumin" (ム－ルミン, by Kobayashi Pharmaceutical Co., Ltd.) and "Day and Night" (Taisho Pharmaceutical Co., Ltd.), etc. "Risuron S" is made purely from bromovalerylurea, but others contain some caffeine and other ingredients. Because it contains other active ingredients, the total dosage increases, and the possibility of vomiting increases.
 
 In addition, the acetaminophen, mentioned later, is often sold in tablets that also contain 150 mg of bromovalerylurea. If you take 100 to 200 tablets equivalent to the lethal dose of bromovalerylurea, you will also reach the lethal dose zone of acetaminophen. This is double the lethal dose and even more dangerous.
 
@@ -179,9 +185,13 @@ However, a 40-year-old woman who took 100 tablets of Atarax-P and drank a bottle
 
 In the 1980s, there was a popular game of "drinking cough drops in one gulp and then jumping like crazy". This is because cough drops contain anesthetic substances such as codeine, which acts on the cough center in the brain to relieve coughs, and ephedrine, which dilates the trachea. Codeine is a component of opium, and although the lethal dose of ephedrine is unknown, it is a raw material for stimulants, so it is very dangerous. It should be banned, but it will not stop coughing if you don't use it. Therefore, most of the cough suppressants sold now contain these two ingredients.
 
-"Paburon-S" (Taisho Pharmaceutical) is also one of this type of drugs. In the 1980s, "Buron liquid" (SS Pharmaceuticals) was widely used, but now this medicine does not contain ephedrine, so here is dihydrocodeine phosphate, which has an almost identical structure to codeine. 30 mg and "Paburon" of dimethylephedrine hydrochloride (methyl ephedrine), the sister ingredient of ephedrine. Codeine phosphate can cause drowsiness when taken in large amounts, while ephedrine has a wakefulness effect. Overall, it is not so much sleep as it is a strong excitatory effect, leading to increased heart rate, accelerated breathing and death due to circulatory insufficiency. In addition, cough suppressants containing 30 mg of dihydrocodeine include "New Deni Cough Liquid" and "New Dihydrocodeine Cough Liquid" (Kowa).
+"Paburon-S" (Taisho Pharmaceutical) is also one of this type of drugs. In the 1980s, "Buron liquid" (SS Pharmaceuticals) was widely used, but now this medicine does not contain ephedrine, so here is "Paburon" in its place, containing 30mg of dihydrocodeine phosphate, which is structurally similar to codeine, and dl-methylephedrine hydrochloride, an ephedrine-like ingredient. Codeine phosphate can cause drowsiness when taken in large amounts, while ephedrine has a wakefulness effect. Overall, it is not so much sleep as it is a strong excitatory effect, leading to increased heart rate, accelerated breathing and death due to circulatory insufficiency. In addition, cough suppressants containing 30 mg of dihydrocodeine include "Tonin Cough Syrup D" and "Colgen" (Kowa).
 
-The content of dimethylephedrine hydrochloride in "Aneton Granules" (by Pfizer) is 10 mg. In the book *Final Exit*, it's stated that codeine lethal dose is 2.4 g, so just believe it and take more than 240 granules, which is just a small bowl in terms of quantity. An expert's opinion is: "Things mixed with yogurt and the like" have white particles and a sweet taste.
+The content of dimethylephedrine hydrochloride in "Aneton Granules" (by Pfizer) is 10 mg. In the book *Final Exit*[^final-exit], it's stated that codeine lethal dose is 2.4 g, so just believe it and take more than 240 granules, which is just a small bowl in terms of quantity. An expert's opinion is: "Things mixed with yogurt and the like" have white particles and a sweet taste.
+
+[^final-exit]: 1991 book, "Final Exit: The Practicalities of Self-Deliverance and Assisted Suicide for the Dying," by Derek Humphry.
+
+[ Vietnamese Translator's note: It's hard to find the medicines introduced in the original, so I'll replace them with medicines with similar names and similar ingredients. ]
 
 ### (3) Antiemetics
 
@@ -193,11 +203,13 @@ The content of dimethylephedrine hydrochloride in "Aneton Granules" (by Pfizer) 
 | - | - | - | - | - | - |
 | Rakkumoa | Dimenhydrinate | 25～250mg/kg(A) <br> At least 2.5g(I) | 50mg | 30～300 pills (60kg) | 6 pills/800 yen |
 
-Antiemetics, surprisingly, contain many dangerous ingredients. After a 24-year-old woman took 7.5g of dimenhydrinate in order to have an abortion, she developed vomiting, dizziness, convulsions, fell into a coma, and died due to respiratory insufficiency 90 minutes later. "Rakkumoa" (Fujisawa Pharmaceutical Co., Ltd.) contains pyridoxine hydrochloride 7 mg and caffeine anhydrous 14 mg in addition to dimenhydrinate, making it easier to obtain than pure dimenhydrinate medicine. This is a slightly larger tablet with a three-layer structure of white, blue and white. Drugs containing 50mg of Dimenhydrinate include "Carax" (Kyoei Pharmaceutical), "Dimenhydrinate", "Moder" (Moder Pharmaceutical), "Drive Soft" (Choseido Pharmaceutical), etc. There are several types, and they are also sold in pharmacies. In addition, if you can die by taking at least 30 tablets, it is perfect for suicide.
+Antiemetics, surprisingly, contain many dangerous ingredients. After a 24-year-old woman took 7.5g of dimenhydrinate in order to have an abortion, she developed vomiting, dizziness, convulsions, fell into a coma, and died due to respiratory insufficiency 90 minutes later. "Rakkumoa" (Fujisawa Pharmaceutical Co., Ltd.) contains pyridoxine hydrochloride 7 mg and caffeine anhydrous 14 mg in addition to dimenhydrinate, making it easier to obtain than pure dimenhydrinate medicine. This is a slightly larger tablet with a three-layer structure of white, blue and white. Drugs containing 50mg of Dimenhydrinate include "Carax" (Kyoei Pharmaceutical), "Dimenhydrinate", "Moder" (Moder Pharmaceutical), and "Drive Soft" (Choseido Pharmaceutical). There are several types, and they are also sold in pharmacies. In addition, if you can die by taking at least 30 tablets, it is perfect for suicide.
 
 The problem with taking this drug is sleeping well. As mentioned earlier, this drug affects the central nervous system and causes respiratory arrest. Side effects include drowsiness, headache, etc. However, since it is not a psychotropic drug, it cannot fall asleep quickly. If you must sleep, you can use sleeping pills on the market together.
 
 However, there are also cases of 20-year-old and 22-year-old men who took 800mg of dimenhydrinate and experienced hallucinations but did not die.
+
+[ Vietnamese Translator's Note: I gave up on looking up the drugs' names. ]
 
 #### Travelmin Senior (トラベルミン シニア)
 
@@ -290,7 +302,7 @@ Brovarin 50 tablets are equivalent to 5 grams of bromovalerylurea, which is much
 
 His suicide can really be said to be an "experiment." Regarding leaving a record, he wrote: "To die without leaving anything behind can easily be misunderstood as the result of melancholy that is often the case at my age. I do not want to be misunderstood in any way, so I am here calmly Leave me to look carefully at my own evidence." However, we have no idea of ​​his motive for committing suicide, so we can only think that he died "to try out how he would feel when he died."
 
-No matter what, the record I wrote while holding the pen until I was about to lose consciousness is extremely precious. After the last "five minutes", I should probably write "Then it's time to fall asleep."
+No matter what, the record he wrote while holding the pen until he was about to lose consciousness is extremely precious. After the last "five minutes", he should probably write "Then it's time to fall asleep."
 
 In addition, as an example of taking bromovalerylurea, a 22-year-old woman who swallowed 50 tablets of five kinds of drugs containing bromovalerylurea, was found and treated twelve hours after taking it, and continued in a semi-asleep state. Ten days later, she died of heart failure and complicated nephritis.
 
@@ -320,7 +332,7 @@ Although the brand names such as "Serenamin" and "Kurashina" are different, thei
 
 ![](/img/1_antidepressants.png)
 
-Antidepressant drugs such as Tofranil are suitable for those conditions where anti-anxiety drugs do not work, such as extreme depression and insomnia. It's harder to get than anti-anxiety medications, but you can get a prescription if you tell your doctor you're having trouble sleeping, the anti-anxiety medications aren't working, etc. It can even mean you want to commit suicide. If you really fall into a depressed state, you will sometimes be cheerful and sometimes lively. Once the medication is discontinued, you will return to the original state.
+Antidepressant drugs such as Tofranil are suitable for those conditions where anti-anxiety drugs do not work, such as extreme depression and insomnia. It's harder to get than anti-anxiety medications, but you can get a prescription if you tell your doctor you're having trouble sleeping, the anti-anxiety medications aren't working, etc. You can even say that you want to commit suicide. If you really fall into a depressed state, you will sometimes be cheerful and sometimes lively. Once the medication is discontinued, you will return to the original state.
 
 [Translator's note: The following table is really boring. I did not check the table carefully.]
 
@@ -563,7 +575,7 @@ Opium is made from the emulsion obtained from the unripe peel of opium poppy and
 
 Contrary to cocaine, these stimulants can inhibit the central nervous system and cause a trance of pleasure. They are called a series of depressants. If excessive inhalation or injection occurs, dizziness, nausea and vomiting will occur within tens of seconds, blood pressure and body temperature will gradually drop, breathing will be suppressed, and death will occur due to respiratory arrest within 6 to 12 hours after falling into coma. Kidney failure from heroin is fatal. Rumor has it that the punk rocker Sid Vicious died from heroin overdose.
 
-Thailand, Myanmar, Laos, etc. are all major producing areas, and of course they are easily available.
+Thailand, Myanmar, and Laos are all major producing areas, and of course they are easily available.
 
 ### Cocktail: speedball
 
@@ -598,7 +610,7 @@ The method of swallowing is not explained one by one, except that the content is
 
 But the lethal dose must be known. The harmful ingredients contained in these products vary. Although the dosage is not stated, if you want to know the ingredients of each product, you can call the place of sale to ask. Calculate from the lethal dose, then swallow. Err on the side of swallowing too much than too little.
 
-Let's first list some things that look like they may cause death, but are actually very un-toxic and not suitable for suicide, including desiccant silica gel, synthetic detergent, shampoo, hair conditioner, pomade, ink, and plastic wrap. , mosquito coils, cockroach-catching mats, deodorants, para-dichlorobenzene insect repellents, etc., household bleach, quicklime used as a desiccant. Coumarin series and rodenticides cannot be used due to poor toxicity. In addition, lipstick, toothpaste, body wash, and other products that may enter the body through the mouth are naturally safe. Toothpaste is harmless if you swallow the entire tube, even if you have the urge to commit suicide. No matter how much you swallow, you would merely feel stomache upsets.
+Let's first list some things that look like they may cause death, but are actually very un-toxic and not suitable for suicide, including desiccant silica gel, synthetic detergent, shampoo, hair conditioner, pomade, ink, plastic wrap, mosquito coils, cockroach-catching mats, deodorants, para-dichlorobenzene insect repellents, household bleach, and quicklime used as a desiccant. Coumarin series and rodenticides cannot be used due to poor toxicity. In addition, lipstick, toothpaste, body wash, and other products that may enter the body through the mouth are naturally safe. Toothpaste is harmless if you swallow the entire tube, even if you have the urge to commit suicide. No matter how much you swallow, you would merely feel stomache upsets.
 
 ### Tobacco
 
@@ -715,7 +727,9 @@ Benzene is readily available in pharmacies. The minimum lethal dose is 10 ml, wh
 
 Inhaling the volatile components of benzene is more toxic than taking it. However, since the lethal dose of inhalation has not yet been determined, we will not introduce it. Thinner is originally a "liquid for diluting paint" and is mostly a mixture of toluene and methyl alcohol. Most of them are obtained by others, and the content of ingredients is not fixed, so they are not suitable for planned suicide, but they are very toxic. After taking it, there will be a burning sensation in the mouth, esophagus, and stomach, which will inhibit the central nervous system, damage the hematopoietic function, and lead to death.
 
-The use of thinner is easy to cause death by inhalation. 1-3ppm can immediately cause anesthesia. Fill the washbasin with banana water and cover it with a quilt, and you will lose consciousness and die from lack of oxygen. This is the only peaceful method of suicide other than medicine. High purity diluents should be used. Of course, taking a few puffs to speed things up is a good place to start before resorting to other methods of suicide.
+The use of thinner is easy to cause death by inhalation. 1-3ppm can immediately cause anesthesia. Fill the washbasin with banana oil [^banana-oil] and cover it with a quilt, and you will lose consciousness and die from lack of oxygen. This is the only peaceful method of suicide other than medicine. High purity diluents should be used. Of course, taking a few puffs to speed things up is a good place to start before resorting to other methods of suicide.
+
+[^banana-oil]: Banana oil (isoamyl acetate) í used in some paint thinners, only effective on lacquers (nitrocellulose), varnishes, and other specialty paints.
 
 ### Household items
 
@@ -793,13 +807,13 @@ The ovaries and liver of puffer fish are highly toxic, but due to differences in
 
 ## Case study 3: A boy who died eight days after drinking paraquat
 
-In October 1985 in Gunma County, family members returning home from an outing found a boy in the second grade of middle school (14 years old at the time) wandering around in the room holding his stomach. That morning he went out as usual, drank about 40 to 50 ml of the pesticide paraquat in the forest away from school, and then returned home. In addition to bicycles and schoolbags used for school, there were also hastily written suicide notes, traces of vomiting, medicine bottles, etc. left behind in the mountains and forests. When he was taken to the hospital, his mouth and throat were ulcerated, and his mouth bled whenever he screamed. After that, although it was quite painful, he still said "I want to eat early", "I want to read comics", "Thank you, Mom and Dad", etc. After a while, he started to say some fantasy words, "My bus has left", "The UFO is coming" and so on. Sometimes he would make such a loud noise that it would take four adults to subdue him, but he would still die eight days later.
+In October 1985 in Gunma County, family members returning home from an outing found a boy in the second grade of middle school (14 years old at the time) wandering around in the room holding his stomach. That morning he went out as usual, drank about 40 to 50 ml of the pesticide paraquat in the forest away from school, and then returned home. In addition to bicycles and schoolbags used for school, there were also hastily written suicide notes, traces of vomiting, and medicine bottles left behind in the mountains and forests. When he was taken to the hospital, his mouth and throat were ulcerated, and his mouth bled whenever he screamed. After that, although it was quite painful, he still said "I want to eat early", "I want to read comics", "Thank you, Mom and Dad". After a while, he started to say some fantasy words, "My bus has left", "The UFO is coming" and so on. Sometimes he would make such a loud noise that it would take four adults to subdue him, but he would still die eight days later.
 
 The suicide note contained the names of three students in the same class and the words "I will always hate you even in heaven.". He was a member of the basketball team. About three months before his suicide, he was often scolded by others during practice, saying: "What are you doing!", "Don't be lazy!", etc., and he was beaten and kicked in the chest. and abdomen. After quitting in October, he was beaten behind the gym after class. The reason for his suicide was the bullying from the above.
 
 He is a computer fanatic, reading books about computers, and also likes cartoons. A large still of Rumiko Takahashi's original work "Urusei Yatsura"[^urusei-yatsura] hangs in his room.
 
-[^urusei-yatsura]: Urusei Yatsura (うる星やつら) is a Japanese manga series written and illustrated by Rumiko Takahashi. It was serialized in Shogakukan's Weekly Shōnen Sunday from September 1978 to February 1987. It tells the story of Ataru Moroboshi, and the alien Lum, who believes she is Ataru's wife after he accidentally proposes to her.
+[^urusei-yatsura]: Urusei Yatsura (うる星やつら) is a Japanese manga series written and illustrated by Rumiko Takahashi. It was serialized in Shogakukan's Weekly Shōnen Sunday from September 1978 to February 1987. It tells the story of Ataru Moroboshi, and the alien Lum, who believes she is Ataru's wife after he accidentally proposes to her. The manga has been adapted to anime, twice.
 
 ### Check: the cause of death
 
