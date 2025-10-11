@@ -1,4 +1,4 @@
-# Cẩm nang tự tử hoàn chỉnh
+# Cẩm nang hoàn chỉnh về tự tử
 
 ## Mục lục
 

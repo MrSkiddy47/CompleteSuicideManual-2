@@ -5,7 +5,7 @@
 
 ### Phiên bản tiếng Nhật
 
-Tiêu đề: Cẩm nang tự tử hoàn chỉnh (完全自殺マニュアル; Kanzen Jisatsu Manyuaru)
+Tiêu đề: Cẩm nang hoàn chỉnh về tự tử (完全自殺マニュアル; Kanzen Jisatsu Manyuaru)
 
 Tác giả: Tsurumi Wataru (鶴見 済)
 
@@ -21,7 +21,7 @@ Thiết kế sách: Seiichi Suzuki Design Office (鈴木成一 デザイン室)
 
 ### Phiên bản tiếng Đài Loan
 
-Tiêu đề: Cẩm nang tự tử hoàn chỉnh (完全自殺手冊; Wanquan Zisha Shouce)
+Tiêu đề: Cẩm nang hoàn chỉnh về tự tử (完全自殺手冊; Wanquan Zisha Shouce)
 
 Nhà xuất bản: Ever Jasmine Publications, Inc. (茉莉出版事業公司)
 
@@ -132,7 +132,7 @@ Ngoài ra còn có những trích dẫn chung, là những tài liệu mà tác 
 
 Khi cuốn sách được xuất bản vào năm 1993, nó đã ngay lập tức gây sốt trên khắp Nhật Bản, cuối cùng đã bán được hơn một triệu bản. Vào năm 1997, cuối cùng nó đã được chỉ định là "có hại cho thanh thiếu niên" và do đó không được bán cho những người dưới 18 tuổi. Tuy nhiên, việc bán cho người lớn vẫn là hợp pháp và vẫn được bán ở Nhật Bản.
 
-Tận dụng làn sóng phổ biến này, Tsurumi đã tuyển tập một cuốn sách khác được xuất bản vào năm 1994. 『ぼくたちの「完全自殺マニュアル」』 (*'Cẩm nang tự tử hoàn chỉnh'* của chúng tôi). Cuốn sách bao gồm hai phần, phần đầu mô tả cách xã hội Nhật Bản nhìn nhận cuốn *Cẩm nang tự tử hoàn chỉnh*. Nửa sau là những lá thư của độc giả gửi cho tác giả về cuốn sách. Theo như tôi thấy, cuốn sách này giống như những chiếc bánh hamburger của năm ngoái -- lúc đầu thì ngon, nhưng về sau thì không. Cuốn sách này không có trên Internet.
+Tận dụng làn sóng phổ biến này, Tsurumi đã tuyển tập một cuốn sách khác được xuất bản vào năm 1994. 『ぼくたちの「完全自殺マニュアル」』 (*'Cẩm nang hoàn chỉnh về tự tử'* của chúng tôi). Cuốn sách bao gồm hai phần, phần đầu mô tả cách xã hội Nhật Bản nhìn nhận cuốn *Cẩm nang hoàn chỉnh về tự tử*. Nửa sau là những lá thư của độc giả gửi cho tác giả về cuốn sách. Theo như tôi thấy, cuốn sách này giống như những chiếc bánh hamburger của năm ngoái -- lúc đầu thì ngon, nhưng về sau thì không. Cuốn sách này không có trên Internet.
 
 Cả hai cuốn sách đều được dịch và xuất bản nhanh chóng ở Đài Loan vào năm 1994, sau đó bị cấm vào năm 1995. Cuốn sách cũng bị cấm ở Hồng Kông. Còn ở Trung Quốc, mặc dù không có lệnh cấm rõ ràng, nhưng dù sao thì nó cũng sẽ không bao giờ được đưa vào văn phòng của nhà xuất bản.
 
@@ -174,7 +174,7 @@ Nhà xuất bản đã khẩn trương thu hồi loạt sách "Complete X". Chen
 
 Những cuốn sách mới dự kiến ​​xuất bản gần đây cũng đã bị hủy.
 
->[Zhang Qiqun đưa tin tại Đài Bắc] Nhà xuất bản của cuốn *Cẩm nang hoàn chỉnh về trả thù*, bị Văn phòng Công tố quận Đài Bắc phát hiện có hành vi tình nghi xúi giục người khác phạm tội, và nhà phân phối, Li Ming Books, đã đưa ra các biện pháp thu hồi vào ngày 8. Một cuốn sách khác cũng gây tranh cãi, *Cẩm nang tự tử hoàn chỉnh* cũng đã bị thu hồi. Chen Mingda, giám đốc Nhà xuất bản Jasmine, đã đáp chuyến bay trở về Đài Loan vào đêm hôm trước để giải quyết các vấn đề liên quan.
+>[Zhang Qiqun đưa tin tại Đài Bắc] Nhà xuất bản của cuốn *Cẩm nang hoàn chỉnh về trả thù*, bị Văn phòng Công tố quận Đài Bắc phát hiện có hành vi tình nghi xúi giục người khác phạm tội, và nhà phân phối, Li Ming Books, đã đưa ra các biện pháp thu hồi vào ngày 8. Một cuốn sách khác cũng gây tranh cãi, *Cẩm nang hoàn chỉnh về tự tử* cũng đã bị thu hồi. Chen Mingda, giám đốc Nhà xuất bản Jasmine, đã đáp chuyến bay trở về Đài Loan vào đêm hôm trước để giải quyết các vấn đề liên quan.
 >
 > Được biết, đợt thu hồi này là nghị quyết mà Nhà xuất bản Jasmine và Công ty sách Li Ming đã quyết định vào ngày hôm kia. Chen Mingda, giám đốc Nhà xuất bản Jasmine, đã lấy được *Cẩm nang hoàn chỉnh về trả thù* ở nước ngoài và bị các công tố viên trong nước kết tội tiếp tay cho tội phạm. Công ty đã được thông báo qua điện thoại để thu hồi khẩn cấp tất cả các cuốn *Cẩm nang hoàn chỉnh về trả thù* và đại lý xuất bản, Công ty sách Li Ming của thành phố Sanchong, huyện Đài Bắc, được chỉ định để xử lý việc thu hồi.
 >
@@ -185,9 +185,9 @@ Những cuốn sách mới dự kiến ​​xuất bản gần đây cũng đã
 > >
 > Lin Junyan, giám đốc Công ty Sách Li Ming, cho biết *Cẩm nang hoàn chỉnh về trả thù*, ra mắt vào tháng 3 năm nay, chỉ in ra một phiên bản. Phản ứng ban đầu của thị trường là khá tầm thường, nhưng sau khi được truyền thông đưa tin, nó đã trở nên phổ biến. Các hiệu sách trên khắp cả nước đã được yêu cầu bổ sung. Hiện tại, hầu hết các cuốn sách trên thị trường có khả năng đã đến tay người tiêu dùng, vì vậy số lượng thu hồi có thể bị hạn chế, nhưng công ty vẫn sẽ cố gắng hết sức.
 >
-> Chen Mingda, người phụ trách công ty, ban đầu có mặt tại Trung Quốc đại lục để đàm phán kinh doanh, cũng đã kết thúc chuyến đi đến Trung Quốc đại lục vào đêm hôm trước và đã bay trở lại Đài Loan để giải quyết các vấn đề tiếp theo. Ông cho biết khi xuất bản loạt sách này, ông tập trung vào Nhật Bản, Hồng Kông và các nơi khác. Đối mặt với cùng một vấn đề, Đài Loan đang đi sau Nhật Bản và Hồng Kông và chắc chắn sẽ gặp phải tình huống tương tự. Do đó, công ty xuất bản sách vì lo lắng cho xã hội vì đã liên tiếp xuất bản *Tự tử trong tâm trí*, *Cẩm nang tự tử hoàn chỉnh*, *Cẩm nang hoàn chỉnh về chết do bệnh tật*, *Cẩm nang hoàn chỉnh về biến mất* và *Cẩm nang hoàn chỉnh về trả thù* nhưng không có ý định xấu là kích động người khác phạm tội hoặc tự tử.
+> Chen Mingda, người phụ trách công ty, ban đầu có mặt tại Trung Quốc đại lục để đàm phán kinh doanh, cũng đã kết thúc chuyến đi đến Trung Quốc đại lục vào đêm hôm trước và đã bay trở lại Đài Loan để giải quyết các vấn đề tiếp theo. Ông cho biết khi xuất bản loạt sách này, ông tập trung vào Nhật Bản, Hồng Kông và các nơi khác. Đối mặt với cùng một vấn đề, Đài Loan đang đi sau Nhật Bản và Hồng Kông và chắc chắn sẽ gặp phải tình huống tương tự. Do đó, công ty xuất bản sách vì lo lắng cho xã hội vì đã liên tiếp xuất bản *Tự tử trong tâm trí*, *Cẩm nang hoàn chỉnh về tự tử*, *Cẩm nang hoàn chỉnh về chết do bệnh tật*, *Cẩm nang hoàn chỉnh về biến mất* và *Cẩm nang hoàn chỉnh về trả thù* nhưng không có ý định xấu là kích động người khác phạm tội hoặc tự tử.
 >
-> Chen Mingda cho biết do loạt sách này bị chỉ trích từ công chúng, ông đã quyết định thu hồi ngoài khoảng 3.000 bản *Cẩm nang hoàn chỉnh về trả thù* đang bán trên thị trường và khoảng 10.000 bản *Cẩm nang tự tử hoàn chỉnh* sau khi trở về Trung Quốc. Và tái chế chúng. Đối với hai cuốn *Cẩm nang hoàn chỉnh về chết do bệnh tật* và *Cẩm nang hoàn chỉnh về biến mất**, họ cũng đang cân nhắc thu hồi. Mọi tổn thất sẽ do chính công ty chịu. Ngoài ra, ông cũng đã hủy bỏ *Cẩm nang hoàn chỉnh về ngộ độc* mà công ty dự kiến ​​sẽ xuất bản trong tương lai gần. Việc xuất bản sách sẽ được nghiên cứu và đánh giá kỹ lưỡng hơn.
+> Chen Mingda cho biết do loạt sách này bị chỉ trích từ công chúng, ông đã quyết định thu hồi ngoài khoảng 3.000 bản *Cẩm nang hoàn chỉnh về trả thù* đang bán trên thị trường và khoảng 10.000 bản *Cẩm nang hoàn chỉnh về tự tử* sau khi trở về Trung Quốc. Và tái chế chúng. Đối với hai cuốn *Cẩm nang hoàn chỉnh về chết do bệnh tật* và *Cẩm nang hoàn chỉnh về biến mất**, họ cũng đang cân nhắc thu hồi. Mọi tổn thất sẽ do chính công ty chịu. Ngoài ra, ông cũng đã hủy bỏ *Cẩm nang hoàn chỉnh về ngộ độc* mà công ty dự kiến ​​sẽ xuất bản trong tương lai gần. Việc xuất bản sách sẽ được nghiên cứu và đánh giá kỹ lưỡng hơn.
 
 ### United Daily News, Thứ Ba, 1995-05-09 (Mingguo 84), trang 7
 
@@ -204,7 +204,7 @@ Nó sẽ được coi như "Sách đen và ấn phẩm định kỳ".
 >
 > Sau khi Chen Shiti gửi báo cáo cho Viện trưởng Viện kiểm sát Lu Renfa, Lu Renfa tin rằng cần phải tiến hành một cuộc điều tra chi tiết và ngay lập tức chỉ thị cho Viện trưởng Viện kiểm sát Chen Shiti ký một vụ án "khác" (他字案)[^otherwise-case] và nêu tên Nhà xuất bản Jasmine, nhà xuất bản cuốn "Cẩm nang hoàn chỉnh về trả thù", là bị đơn. Nếu cuộc điều tra cho thấy nhà xuất bản bị tình nghi xúi giục người khác phạm tội, một vụ án "điều tra" (侦字案)[^investigation-case] sẽ được ký để buộc nhà xuất bản phải chịu trách nhiệm.
 >
-> [Tin tức Đài Bắc] Chen Mingda, giám đốc Nhà xuất bản Jasmine, cho biết tối hôm trước rằng ngoài cuốn *Cẩm nang hoàn chỉnh về trả thù* mà ông đã quyết định thu hồi, ông cũng quyết định rút cuốn *Cẩm nang tự tử hoàn chỉnh* khỏi thị trường.
+> [Tin tức Đài Bắc] Chen Mingda, giám đốc Nhà xuất bản Jasmine, cho biết tối hôm trước rằng ngoài cuốn *Cẩm nang hoàn chỉnh về trả thù* mà ông đã quyết định thu hồi, ông cũng quyết định rút cuốn *Cẩm nang hoàn chỉnh về tự tử* khỏi thị trường.
 
 [^white-terror]: Khủng bố trắng là sự đàn áp chính trị đối với thường dân Đài Loan và những người bất đồng chính kiến ​​dưới thời chính quyền do Quốc dân đảng cai trị. Thời kỳ Khủng bố Trắng thường được coi là bắt đầu khi thiết quân luật được ban bố tại Đài Loan vào ngày 19 tháng 5 năm 1949, được ban hành theo Điều khoản tạm thời năm 1948 chống lại cuộc nổi loạn của Đảng Cộng sản, và kết thúc vào ngày 21 tháng 9 năm 1992 với việc bãi bỏ Điều 100 của Bộ luật Hình sự, cho phép truy tố các hoạt động "chống nhà nước". Điều khoản tạm thời đã được bãi bỏ một năm trước đó vào ngày 22 tháng 4 năm 1991 và thiết quân luật đã được dỡ bỏ vào ngày 15 tháng 7 năm 1987.
 

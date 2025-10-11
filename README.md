@@ -44,9 +44,9 @@ This project is licensed under the CC0 1.0 Universal License.
 
 ---
 
-# Cẩm nang tự tử hoàn chỉnh
+# Cẩm nang hoàn chỉnh về tự tử
 
-Bản dịch tiếng Trung / Anh / Việt của "Cẩm nang tự tử hoàn chỉnh" đã được hoàn thiện, có chú thích và hỗ trợ đa ngôn ngữ i18n.
+Bản dịch tiếng Trung / Anh / Việt của "Cẩm nang hoàn chỉnh về tự tử" đã được hoàn thiện, có chú thích và hỗ trợ đa ngôn ngữ i18n.
 
 Trong bản dịch, bạn có thể chuyển giữa bản tiếng Trung, tiếng Anh và tiếng Việt để đọc.
 
