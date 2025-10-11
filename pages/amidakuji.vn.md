@@ -78,4 +78,4 @@ Các quy tắc và điều kiện tiêu chuẩn được áp dụng. (Nếu dữ
 
 ![](/amidakuji2.jpg)
 
-[Về Lời tựa đầu.](/chapter_0)
+[Về Lời tựa đầu. ↩️](/chapter_0)

@@ -587,7 +587,7 @@ Thuốc phiện được làm từ nhũ tương thu được từ vỏ non của
 
 Trái ngược với cocaine, những chất kích thích này có thể ức chế hệ thần kinh trung ương và gây ra trạng thái xuất thần khoái cảm. Chúng được coi là một loạt thuốc an thần. Nếu hít phải hoặc tiêm quá nhiều, chóng mặt, buồn nôn và nôn sẽ xảy ra trong vòng vài chục giây, huyết áp và nhiệt độ cơ thể sẽ giảm dần, suy hô hấp xảy ra và sẽ tử vong do ngừng thở trong vòng 6 đến 12 tiếng sau khi hôn mê. Suy thận do dùng heroin cũng có gây tử vong. Có tin đồn rằng nhạc sĩ punk rock Sid Vicious đã chết vì dùng heroin quá liều.
 
-Thái Lan, Myanmar, Lào, v.v. đều là những khu vực sản xuất chính và tất nhiên chúng rất dễ kiếm ở đó.
+Thái Lan, Myanmar và Lào đều là những khu vực sản xuất chính và tất nhiên chúng rất dễ kiếm ở đó.
 
 ### Cốc tai (Cocktail): bóng nhanh (speedball)
 

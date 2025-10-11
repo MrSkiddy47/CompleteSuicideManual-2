@@ -77,4 +77,4 @@ Standard rules and standard allowances apply. (If the input is not valid, your p
 
 ![](/amidakuji2.jpg)
 
-[Back to Preface.](/chapter_0)
+[Back to Preface. ↩️](/chapter_0)
